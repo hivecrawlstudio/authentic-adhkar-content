@@ -12,7 +12,7 @@
     "reference": "Muslim 2723",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "",
-    "situationTags": "evening,daily,protection,gratitude",
+    "situationTags": ["evening", "daily", "protection", "gratitude"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -29,7 +29,7 @@
     "reference": "Abu Dawud 5073",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "Whoever says this in the evening has given thanks for that night.",
-    "situationTags": "evening,gratitude,daily,blessing",
+    "situationTags": ["evening", "gratitude", "daily", "blessing"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -46,7 +46,7 @@
     "reference": "Silsila Sahiha 262",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "",
-    "situationTags": "evening,daily,gratitude",
+    "situationTags": ["evening", "daily", "gratitude"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -63,7 +63,7 @@
     "reference": "Abu Dawud 5084",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "",
-    "situationTags": "evening,daily,protection,guidance",
+    "situationTags": ["evening", "daily", "protection", "guidance"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -80,7 +80,7 @@
     "reference": "Bukhari 6306",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "Whoever says this with conviction in the evening and dies that night before morning will be among the people of Paradise.",
-    "situationTags": "evening,repentance,forgiveness,daily",
+    "situationTags": ["evening", "repentance", "forgiveness", "daily"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -97,7 +97,7 @@
     "reference": "Abu Dawud 5069",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "Whoever says this four times in the evening, Allah will free them entirely from the Fire.",
-    "situationTags": "evening,daily,protection,gratitude",
+    "situationTags": ["evening", "daily", "protection", "gratitude"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -114,7 +114,7 @@
     "reference": "Musnad Ahmad 3/406",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "",
-    "situationTags": "evening,health,protection,daily",
+    "situationTags": ["evening", "health", "protection", "daily"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -131,7 +131,7 @@
     "reference": "Tirmidhi 3388",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "Whoever says this in the evening will be protected from the harm of that night.",
-    "situationTags": "evening,protection,daily,fear",
+    "situationTags": ["evening", "protection", "daily", "fear"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -148,7 +148,7 @@
     "reference": "Abu Dawud 5090",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "Whoever says this three times in the evening will not be afflicted by any harm until the morning.",
-    "situationTags": "evening,protection,daily",
+    "situationTags": ["evening", "protection", "daily"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -165,7 +165,7 @@
     "reference": "Tirmidhi 3389",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "Whoever says this three times in the evening, it is a right upon Allah to please him on the Day of Resurrection.",
-    "situationTags": "evening,daily,gratitude,guidance",
+    "situationTags": ["evening", "daily", "gratitude", "guidance"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -182,7 +182,7 @@
     "reference": "Abu Dawud 5074",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "",
-    "situationTags": "evening,protection,daily,anxiety,fear",
+    "situationTags": ["evening", "protection", "daily", "anxiety", "fear"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -199,7 +199,7 @@
     "reference": "Abu Dawud 5083",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "",
-    "situationTags": "evening,protection,daily",
+    "situationTags": ["evening", "protection", "daily"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -216,7 +216,7 @@
     "reference": "Mustadrak 2000",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "",
-    "situationTags": "evening,daily,hardship,anxiety,guidance",
+    "situationTags": ["evening", "daily", "hardship", "anxiety", "guidance"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -233,7 +233,7 @@
     "reference": "Abu Dawud 5081",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "Whoever says this seven times in the morning and evening, Allah will suffice him in whatever worries him.",
-    "situationTags": "evening,daily,protection,hardship,anxiety",
+    "situationTags": ["evening", "daily", "protection", "hardship", "anxiety"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -250,7 +250,7 @@
     "reference": "Abu Dawud 5077",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "Whoever says this 100 times in the evening will have the reward of freeing 10 slaves, 100 good deeds written for him, 100 sins erased, and he will be protected from Satan until the morning.",
-    "situationTags": "evening,daily,gratitude,protection",
+    "situationTags": ["evening", "daily", "gratitude", "protection"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -260,16 +260,15 @@
     "arabicText": "سُبْحَانَ اللهِ وَبِحَمْدِهِ",
     "transliteration": "Subhaanallaahi wa bihamdih.",
     "englishTranslation": "Glory be to Allah and all praise is His.",
-       "urduTranslation": "پاک ہے اللہ اپنی تعریفوں کے ساتھ۔",
+    "urduTranslation": "پاک ہے اللہ اپنی تعریفوں کے ساتھ۔",
     "repetitions": 100,
     "type": "EVENING",
     "category": "EVENING_ADHKAR",
     "reference": "Muslim 2692",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "Whoever says this 100 times in the morning and evening, none will come on the Day of Resurrection with anything better than what he has brought.",
-    "situationTags": "evening,daily,gratitude,praise",
+    "situationTags": ["evening", "daily", "gratitude", "praise"],
     "isFavourite": false,
     "isCompleted": false
   }
 ]
-  
