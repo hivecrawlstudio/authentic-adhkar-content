@@ -12,7 +12,7 @@
     "reference": "Muslim 2723",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "",
-    "situationTags": "morning,protection,daily,gratitude",
+    "situationTags": ["morning", "protection", "daily", "gratitude"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -29,7 +29,7 @@
     "reference": "Abu Dawud 5068, Tirmidhi 3391",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "",
-    "situationTags": "morning,daily,gratitude,waking",
+    "situationTags": ["morning", "daily", "gratitude", "waking"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -46,7 +46,7 @@
     "reference": "Bukhari 6306",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "Whoever says this with conviction in the morning and dies that day before the evening, they will be among the people of Paradise. And whoever says it with conviction in the evening and dies that night before morning, they will be among the people of Paradise.",
-    "situationTags": "morning,repentance,forgiveness,daily",
+    "situationTags": ["morning", "repentance", "forgiveness", "daily"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -63,7 +63,7 @@
     "reference": "Abu Dawud 5069",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "Whoever says this four times in the morning, Allah will free one quarter of them from the Fire. Whoever says it twice, Allah will free one half of them. Whoever says it three times, Allah will free three quarters of them. And whoever says it four times, Allah will free them entirely from the Fire.",
-    "situationTags": "morning,daily,protection,gratitude",
+    "situationTags": ["morning", "daily", "protection", "gratitude"],
     "isFavourite": false,
     "isCompleted": false
   },
@@ -80,7 +80,7 @@
     "reference": "Abu Dawud 5073",
     "sourceBook": "Hisnul Muslim",
     "fadhail": "Whoever says this in the morning has given thanks for that day.",
-    "situationTags": "morning,gratitude,daily,blessing",
+    "situationTags": ["morning", "gratitude", "daily", "blessing"],
     "isFavourite": false,
     "isCompleted": false
   }
