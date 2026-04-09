@@ -1,1 +1,54 @@
+[
+  {
+    "id": 454,
+    "orderIndex": 3,
+    "arabicText": "رَبِّ اغْفِرْ لِي وَتُبْ عَلَيَّ إِنَّكَ أَنْتَ التَّوَّابُ الْغَفُورُ",
+    "transliteration": "Rabbigh-fir li wa tub 'alayya innaka antatt-tawwabul-ghafur",
+    "englishTranslation": "My Lord, forgive me and accept my repentance. Indeed You are the Acceptor of repentance, the Forgiving.",
+    "urduTranslation": "اے میرے رب! مجھے معاف فرمادے اور میری توبہ قبول فرما، بے شک تو بہت توبہ قبول کرنے والا، انتہائی معاف کرنے والا ہے۔",
+    "repetitions": 100,
+    "type": "ANYTIME",
+    "category": "REPENTANCE",
+    "reference": "Sahih Al-Bukhari: 2049; Jami At-Tirmidhi: 3434",
+    "sourceBook": "Hisnul Muslim",
+    "fadhail": "Said during a gathering — this is the expiation for sitting.",
+    "situationTags": ["repentance", "forgiveness"],
+    "isFavourite": false,
+    "isCompleted": false
+  },
+  {
+    "id": 455,
+    "orderIndex": 4,
+    "arabicText": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
+    "transliteration": "Subhanakal-lahumma wa bihamdika ashhadu an la ilaha illa anta astaghfiruka wa atubu ilayk",
+    "englishTranslation": "Glory and praise be to You, O Allah. I bear witness that there is none worthy of worship except You. I seek Your forgiveness and repent to You.",
+    "urduTranslation": "پاک ہے تو اے اللہ! اپنی تعریفوں کے ساتھ، میں شہادت دیتا ہوں کہ تیرے سوا کوئی معبود نہیں، میں تجھ سے معافی مانگتا ہوں اور تیرے حضور توبہ کرتا ہوں۔",
+    "repetitions": 1,
+    "type": "ANYTIME",
+    "category": "REPENTANCE",
+    "reference": "Sunan Abi Dawud: 4859; Jami At-Tirmidhi: 3433",
+    "sourceBook": "Hisnul Muslim",
+    "fadhail": "Expiation for a gathering — sins committed in the gathering are forgiven.",
+    "situationTags": ["repentance", "forgiveness"],
+    "isFavourite": false,
+    "isCompleted": false
+  },
+  {
+    "id": 456,
+    "orderIndex": 5,
+    "arabicText": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ وَأَسْتَغْفِرُكَ لِمَا لَا أَعْلَمُ",
+    "transliteration": "Allahumma inni a'udhu bika an ushrika bika wa ana a'lam wa astaghfiruka lima la a'lam",
+    "englishTranslation": "O Allah, I seek refuge in You from knowingly associating partners with You, and I seek Your forgiveness for the things I am unaware of.",
+    "urduTranslation": "اے اللہ! بے شک میں تیری پناہ میں آتا ہوں (اس بات سے) کہ میں تیرا شریک ٹھہراؤں جب کہ میں جانتا بھی ہوں اور میں تجھ سے ان غلطیوں کی بخشش مانگتا ہوں جنہیں میں نہیں جانتا۔",
+    "repetitions": 1,
+    "type": "ANYTIME",
+    "category": "REPENTANCE",
+    "reference": "Shrah Sahih Al-Adab Al-Mufrad lil-Albani: 551",
+    "sourceBook": "Hisnul Muslim",
+    "fadhail": "Said to protect from hidden shirk.",
+    "situationTags": ["repentance", "protection"],
+    "isFavourite": false,
+    "isCompleted": false
+  }
+]
 
