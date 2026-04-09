@@ -848,5 +848,22 @@
     "situationTags": ["prayer", "guidance", "difficulty"],
     "isFavourite": false,
     "isCompleted": false
+  },
+    {
+    "id": 431,
+    "orderIndex": 1,
+    "arabicText": "بِسْمِ اللهِ وَالسَّلَامُ عَلَى رَسُولِ اللهِ اللَّهُمَّ اغْفِرْ لِي ذُنُوبِي وَافْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+    "transliteration": "Bismillahi was-salamu 'ala rasulillah. Allahumma-ghfir li dhunubi waftah li abwaba rahmatik",
+    "englishTranslation": "In the name of Allah, and peace be upon the Messenger of Allah. O Allah, forgive me my sins and open for me the gates of Your mercy.",
+    "urduTranslation": "اللہ کے نام کے ساتھ (میں نکلتا ہوں) اور درود و سلام ہو رسول اللہ ﷺ پر۔ اے اللہ! میرے گناہ معاف فرمادے اور میرے لیے اپنی رحمت کے دروازے کھول دے۔",
+    "repetitions": 1,
+    "type": "ANYTIME",
+    "category": "PRAYER",
+    "reference": "Sunan Ibn Majah: 771-773",
+    "sourceBook": "Hisnul Muslim",
+    "fadhail": "Said when entering the mosque.",
+    "situationTags": ["entering-mosque", "prayer"],
+    "isFavourite": false,
+    "isCompleted": false
   }
 ]
