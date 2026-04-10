@@ -1,141 +1,872 @@
 [
-  { "id": 1,  "orderIndex": 1,  "nameEn": "Publisher's Note",                                    "nameUrdu": "عرض ناشر" },
-  { "id": 2,  "orderIndex": 2,  "nameEn": "Introduction",                                         "nameUrdu": "مقدمہ" },
-  { "id": 3,  "orderIndex": 3,  "nameEn": "Dhikr According to Sunnah is Obligatory",              "nameUrdu": "ذکر سنت کے مطابق کرنا واجب ہے" },
-  { "id": 4,  "orderIndex": 4,  "nameEn": "Importance & Virtue of Dhikr",                         "nameUrdu": "ذکر کی اہمیت وفضیلت" },
-  { "id": 5,  "orderIndex": 5,  "nameEn": "Hamd, Takbir & La Ilaha IllAllah — Virtue",            "nameUrdu": "حمد وثناء، تکبیر اور لا الہ الا اللہ کی فضیلت" },
-  { "id": 6,  "orderIndex": 6,  "nameEn": "Virtue of Sending Salawat on the Prophet ﷺ",          "nameUrdu": "رسول اللہ ﷺ پر درود بھیجنے کی فضیلت" },
-  { "id": 7,  "orderIndex": 7,  "nameEn": "Tawbah & Istighfar",                                   "nameUrdu": "توبہ واستغفار" },
-  { "id": 8,  "orderIndex": 8,  "nameEn": "Duas Before Sleeping",                                 "nameUrdu": "سوتے وقت کی دعائیں" },
-  { "id": 9,  "orderIndex": 9,  "nameEn": "Dua When Turning Over at Night",                       "nameUrdu": "رات کو کروٹ بدلتے وقت کی دعا" },
-  { "id": 10, "orderIndex": 10, "nameEn": "Dua for Fear or Disturbance in Sleep",                 "nameUrdu": "نیند میں گھبراہٹ یا وحشت کے وقت کی دعا" },
-  { "id": 11, "orderIndex": 11, "nameEn": "Good or Bad Dream — What to Do",                       "nameUrdu": "اچھا یا برا خواب آئے یا اچانک آنکھ کھل جائے تو کیا کرے" },
-  { "id": 12, "orderIndex": 12, "nameEn": "Duas Upon Waking",                                     "nameUrdu": "نیند سے بیدار ہونے کی دعائیں" },
-  { "id": 13, "orderIndex": 13, "nameEn": "Dua Entering the Toilet",                              "nameUrdu": "بیت الخلا میں داخل ہونے کی دعا" },
-  { "id": 14, "orderIndex": 14, "nameEn": "Dua Leaving the Toilet",                               "nameUrdu": "بیت الخلا سے نکلنے کی دعا" },
-  { "id": 15, "orderIndex": 15, "nameEn": "Dua Going Towards the Masjid",                         "nameUrdu": "مسجد کی طرف جانے کی دعا" },
-  { "id": 16, "orderIndex": 16, "nameEn": "Dua Entering the Masjid",                              "nameUrdu": "مسجد میں داخل ہونے کی دعا" },
-  { "id": 17, "orderIndex": 17, "nameEn": "Dua Leaving the Masjid",                               "nameUrdu": "مسجد سے نکلنے کی دعا" },
-  { "id": 18, "orderIndex": 18, "nameEn": "Dua Before Wudu",                                      "nameUrdu": "وضو سے پہلے کی دعا" },
-  { "id": 19, "orderIndex": 19, "nameEn": "Duas After Wudu",                                      "nameUrdu": "وضو کے بعد کی دعائیں" },
-  { "id": 20, "orderIndex": 20, "nameEn": "Adhan",                                                "nameUrdu": "اذان" },
-  { "id": 21, "orderIndex": 21, "nameEn": "Responding to the Adhan",                              "nameUrdu": "اذان کا جواب" },
-  { "id": 22, "orderIndex": 22, "nameEn": "Dua After Adhan & Salawat",                            "nameUrdu": "اذان کے بعد درود شریف اور مسنون دعا" },
-  { "id": 23, "orderIndex": 23, "nameEn": "Takbir (Iqamah)",                                      "nameUrdu": "تکبیر (اقامت)" },
-  { "id": 24, "orderIndex": 24, "nameEn": "Duas After Takbir-e-Tahreema",                         "nameUrdu": "تکبیر تحریمہ کے بعد کی دعائیں" },
-  { "id": 25, "orderIndex": 25, "nameEn": "Ta'awwudh, Bismillah & Surah Fatiha",                  "nameUrdu": "تعوذ، بسملہ اور سورۃ فاتحہ" },
-  { "id": 26, "orderIndex": 26, "nameEn": "Quranic Recitation After Surah Fatiha",                "nameUrdu": "سورۃ فاتحہ کے بعد قرآنی سلاوت" },
-  { "id": 27, "orderIndex": 27, "nameEn": "Duas of Ruku",                                         "nameUrdu": "رکوع کی دعائیں" },
-  { "id": 28, "orderIndex": 28, "nameEn": "Duas Rising from Ruku",                                "nameUrdu": "رکوع سے اٹھنے کی دعائیں" },
-  { "id": 29, "orderIndex": 29, "nameEn": "Duas of Sujood",                                       "nameUrdu": "سجدے کی دعائیں" },
-  { "id": 30, "orderIndex": 30, "nameEn": "Duas Between Two Sajdahs",                             "nameUrdu": "دو سجدوں کے درمیان کی دعائیں" },
-  { "id": 31, "orderIndex": 31, "nameEn": "Tashahhud, Durood & Salaam",                           "nameUrdu": "تشہد اور روو و سلام" },
-  { "id": 32, "orderIndex": 32, "nameEn": "Duas Before Salaam",                                   "nameUrdu": "سلام پھیرنے سے پہلے کی دعائیں" },
-  { "id": 33, "orderIndex": 33, "nameEn": "Duas After Salaam",                                    "nameUrdu": "سلام پھیرنے کے بعد کی دعائیں" },
-  { "id": 34, "orderIndex": 34, "nameEn": "Prophetic Method of Tasbih",                           "nameUrdu": "تسبیح کا نبوی طریقہ" },
-  { "id": 35, "orderIndex": 35, "nameEn": "Duas of Witr Prayer",                                  "nameUrdu": "قنوت وتر کی دعائیں" },
-  { "id": 36, "orderIndex": 36, "nameEn": "Dua After Witr Prayer",                                "nameUrdu": "نماز وتر کے بعد کی دعا" },
-  { "id": 37, "orderIndex": 37, "nameEn": "Dua of Salat al-Istikhara",                            "nameUrdu": "نماز استخارہ کی دعا" },
-  { "id": 38, "orderIndex": 38, "nameEn": "About Qunut Nazilah",                                  "nameUrdu": "قنوت نازلہ کا بیان" },
-  { "id": 39, "orderIndex": 39, "nameEn": "Qunut Nazilah",                                        "nameUrdu": "قنوت نازلہ" },
-  { "id": 40, "orderIndex": 40, "nameEn": "Janazah Prayer",                                       "nameUrdu": "نماز جنازہ" },
-  { "id": 41, "orderIndex": 41, "nameEn": "Duas of Janazah Prayer",                               "nameUrdu": "نماز جنازہ کی دعائیں" },
-  { "id": 42, "orderIndex": 42, "nameEn": "Duas for Child's Janazah Prayer",                      "nameUrdu": "بچے کی نماز جنازہ کی دعائیں" },
-  { "id": 43, "orderIndex": 43, "nameEn": "Duas of Condolence",                                   "nameUrdu": "تعزیت کی دعائیں" },
-  { "id": 44, "orderIndex": 44, "nameEn": "Dua When Lowering Deceased into Grave",                "nameUrdu": "میت قبر میں اتارتے وقت کی دعا" },
-  { "id": 45, "orderIndex": 45, "nameEn": "Dua After Burial",                                     "nameUrdu": "میت دفن کرنے کے بعد کی دعا" },
-  { "id": 46, "orderIndex": 46, "nameEn": "Dua Visiting Graves",                                  "nameUrdu": "زیارت قبور کی دعا" },
-  { "id": 47, "orderIndex": 47, "nameEn": "Dua to Protect from Waswas in Quran & Prayer",        "nameUrdu": "قرآن اور نماز میں وسوسے سے بچاو کی دعا" },
-  { "id": 48, "orderIndex": 48, "nameEn": "Duas of Sajdah al-Tilawah",                            "nameUrdu": "سجدۃ تلاوت کی دعائیں" },
-  { "id": 49, "orderIndex": 49, "nameEn": "Morning & Evening Adhkar & Duas",                      "nameUrdu": "صبح وشام کے اذکار اور دعائیں" },
-  { "id": 50, "orderIndex": 50, "nameEn": "Duas for Relief from Hardship & Debt",                 "nameUrdu": "مصائب ومشکلات اور قرض سے نجات کی دعائیں" },
-  { "id": 51, "orderIndex": 51, "nameEn": "Allah's Greatest Name & Powerful Verses",              "nameUrdu": "اللہ تعالیٰ کے اسم اعظم والی آیات اور دعائیں" },
-  { "id": 52, "orderIndex": 52, "nameEn": "Duas for Relief from Grief & Sorrow",                  "nameUrdu": "فکرمندی اور غم سے نجات کی دعائیں" },
-  { "id": 53, "orderIndex": 53, "nameEn": "Dua for Solving Problems",                             "nameUrdu": "مشکلات کے حل کی دعا" },
-  { "id": 54, "orderIndex": 54, "nameEn": "Duas in Times of Restlessness & Anxiety",              "nameUrdu": "بے قراری اور اضطراب کے وقت کی دعائیں" },
-  { "id": 55, "orderIndex": 55, "nameEn": "Duas for Relief from Debt",                            "nameUrdu": "قرض سے نجات کی دعائیں" },
-  { "id": 56, "orderIndex": 56, "nameEn": "Dua When Repaying Debt",                               "nameUrdu": "قرض واپس کرتے وقت کی دعا" },
-  { "id": 57, "orderIndex": 57, "nameEn": "Dua When Calamity Strikes",                            "nameUrdu": "مصیبت کے وقت نعم البدل مانگنے کی دعا" },
-  { "id": 58, "orderIndex": 58, "nameEn": "What to Say in Times of Distress",                     "nameUrdu": "گھبراہٹ کے وقت کیا کہا جائے" },
-  { "id": 59, "orderIndex": 59, "nameEn": "Dua for Anger",                                        "nameUrdu": "غصہ آجانے کے وقت کی دعا" },
-  { "id": 60, "orderIndex": 60, "nameEn": "Dua to Be Safe from Shayateen's Tricks",               "nameUrdu": "سرکش شیطانوں کے مکر وفریب سے بچنے کی دعا" },
-  { "id": 61, "orderIndex": 61, "nameEn": "Dua When Feeling Helpless",                            "nameUrdu": "تدبیر الٹ جانے پر بے بسی کی دعا" },
-  { "id": 62, "orderIndex": 62, "nameEn": "How to Express Distress",                              "nameUrdu": "پریشان آدمی اپنا حال کیسے بتائے" },
-  { "id": 63, "orderIndex": 63, "nameEn": "What to Do When Feeling Physical Pain",                "nameUrdu": "جسم میں تکلیف محسوس ہو تو کیا کہے" },
-  { "id": 64, "orderIndex": 64, "nameEn": "Dua When Seeing Someone in Calamity",                  "nameUrdu": "مصیبت زدہ کو دیکھنے کے وقت کی دعا" },
-  { "id": 65, "orderIndex": 65, "nameEn": "Duas When Facing Enemy or Authority",                  "nameUrdu": "دشمن اور صاحب سلطنت سے ملتے وقت کی دعائیں" },
-  { "id": 66, "orderIndex": 66, "nameEn": "Duas When Fearing a King's Oppression",                "nameUrdu": "بادشاہ کے ظلم سے خوف کی دعائیں" },
-  { "id": 67, "orderIndex": 67, "nameEn": "Dua Against an Enemy",                                 "nameUrdu": "دشمن کے لیے بد دعا" },
-  { "id": 68, "orderIndex": 68, "nameEn": "Dua for Protection from People's Evil",                "nameUrdu": "لوگوں کے شر سے ڈرے تو یہ دعا مانگے" },
-  { "id": 69, "orderIndex": 69, "nameEn": "What to Do When Doubt in Faith Occurs",                "nameUrdu": "جسے ایمان میں شک ہو جائے وہ کیا کرے" },
-  { "id": 70, "orderIndex": 70, "nameEn": "Dua to Stay Safe from Shirk",                          "nameUrdu": "شرک سے محفوظ رہنے کی دعا" },
-  { "id": 71, "orderIndex": 71, "nameEn": "What to Do After Committing a Sin",                    "nameUrdu": "گناہ کر بیٹھے تو کیا کہے اور کیا کرے" },
-  { "id": 72, "orderIndex": 72, "nameEn": "When Does Shaytan Flee",                               "nameUrdu": "شیطان کب بھاگتا ہے" },
-  { "id": 73, "orderIndex": 73, "nameEn": "Practices to Stay Safe from Dajjal",                   "nameUrdu": "دجال سے محفوظ رہنے کے وظائف" },
-  { "id": 74, "orderIndex": 74, "nameEn": "Dua to Declare Innocence from Every Pain",             "nameUrdu": "ہر تکلیف سے اظہار براءت کے لیے دعا" },
-  { "id": 75, "orderIndex": 75, "nameEn": "What Did the Prophet ﷺ Advise the Worried",           "nameUrdu": "نبی پاک ﷺ نے کاندیشہ ہو تو کیا کہے" },
-  { "id": 76, "orderIndex": 76, "nameEn": "Dua for Someone Insulted or Harmed",                   "nameUrdu": "ایسے شخص کے لیے دعا جسے گالی یا تکلیف دی ہو" },
-  { "id": 77, "orderIndex": 77, "nameEn": "Duas of Hajj, Umrah & Travel",                         "nameUrdu": "حج اور عمرہ اور سفر کی دعائیں" },
-  { "id": 78, "orderIndex": 78, "nameEn": "Dua When Boarding a Vehicle",                          "nameUrdu": "سواری پر بیٹھنے کی دعا" },
-  { "id": 79, "orderIndex": 79, "nameEn": "Dua at the Start of a Journey",                        "nameUrdu": "آغاز سفر کی دعا" },
-  { "id": 80, "orderIndex": 80, "nameEn": "Dua When Entering a Town or Village",                  "nameUrdu": "کسی شہر یا بستی میں داخل ہونے کی دعا" },
-  { "id": 81, "orderIndex": 81, "nameEn": "Dua When the Mount Stumbles",                          "nameUrdu": "سواری پھسلنے کے وقت کی دعا" },
-  { "id": 82, "orderIndex": 82, "nameEn": "Tasbih & Takbir During Journey",                       "nameUrdu": "دوران سفر تسبیح وتکبیر" },
-  { "id": 83, "orderIndex": 83, "nameEn": "Dua at Dawn During Travel",                            "nameUrdu": "دوران سفر صبح کے وقت کی دعا" },
-  { "id": 84, "orderIndex": 84, "nameEn": "Dua to Stay Safe from People's Evil While Traveling",  "nameUrdu": "لوگوں کے شر کے بغیر کسی جگہ ٹھہرنے کی دعا" },
-  { "id": 85, "orderIndex": 85, "nameEn": "Near the Black Stone — Say Allahu Akbar",              "nameUrdu": "حجر اسود کے قریب جا کر اللہ اکبر کہنا" },
-  { "id": 86, "orderIndex": 86, "nameEn": "Dua Between Rukn Yamani and Hajr Aswad",               "nameUrdu": "رکن یمانی اور حجر اسود کے درمیان کی دعا" },
-  { "id": 87, "orderIndex": 87, "nameEn": "Dua at Safa & Marwah",                                 "nameUrdu": "صفا اور مروہ کے مقام پر پڑھی جانے والی دعا" },
-  { "id": 88, "orderIndex": 88, "nameEn": "Dua of Yawm Arafah (9 Dhul Hijjah)",                   "nameUrdu": "یوم عرفہ (9 ذوالحجہ) کی دعا" },
-  { "id": 89, "orderIndex": 89, "nameEn": "Dhikr at Muzdalifah",                                  "nameUrdu": "مشعر حرام کے پاس ذکر واذکار" },
-  { "id": 90, "orderIndex": 90, "nameEn": "Takbir with Each Pebble at Rami",                      "nameUrdu": "رمی جمرات کے وقت ہر کنگری کے ساتھ تکبیر" },
-  { "id": 91, "orderIndex": 91, "nameEn": "Dua When Slaughtering a Common Animal",                "nameUrdu": "عام جانور یا اونٹ ذبح کرتے وقت کی دعا" },
-  { "id": 92, "orderIndex": 92, "nameEn": "Dua When Slaughtering a Sacrificial Animal",           "nameUrdu": "قربانی کا جانور ذبح کرنے کی دعا" },
-  { "id": 93, "orderIndex": 93, "nameEn": "Dua Before Eating",                                    "nameUrdu": "کھانا کھانے سے پہلے کی دعا" },
-  { "id": 94, "orderIndex": 94, "nameEn": "Duas After Eating",                                    "nameUrdu": "کھانے سے فراغت کے بعد کی دعائیں" },
-  { "id": 95, "orderIndex": 95, "nameEn": "Dua for the Host",                                     "nameUrdu": "مہمان کی میزبان کے لیے دعا" },
-  { "id": 96, "orderIndex": 96, "nameEn": "Dua for the One Who Fed You",                          "nameUrdu": "پلانے والے کے لیے دعا" },
-  { "id": 97, "orderIndex": 97, "nameEn": "Dua When Seeing New Fruit",                            "nameUrdu": "نیا پھل دیکھتے وقت کی دعا" },
-  { "id": 98, "orderIndex": 98, "nameEn": "Dua When Wearing New Clothes",                         "nameUrdu": "نیا لباس پہننے کی دعا" },
-  { "id": 99, "orderIndex": 99, "nameEn": "Dua for the One Who Wears New Clothes",                "nameUrdu": "نیا لباس پہننے والے کے لیے دعائیں" },
-  { "id": 100,"orderIndex": 100,"nameEn": "Dua for Wearing Common Clothes",                       "nameUrdu": "عام لباس پہننے کی دعا" },
-  { "id": 101,"orderIndex": 101,"nameEn": "Dua When Removing Clothes",                            "nameUrdu": "لباس اتارتے وقت کی دعا" },
-  { "id": 102,"orderIndex": 102,"nameEn": "Daily Duas",                                           "nameUrdu": "روزمرہ دعائیں" },
-  { "id": 103,"orderIndex": 103,"nameEn": "Duas When Leaving Home",                               "nameUrdu": "گھر سے نکلتے وقت کی دعائیں" },
-  { "id": 104,"orderIndex": 104,"nameEn": "Dua When Entering Home",                               "nameUrdu": "گھر میں داخل ہوتے وقت کی دعا" },
-  { "id": 105,"orderIndex": 105,"nameEn": "Dua When Entering the Market",                         "nameUrdu": "بازار میں داخل ہونے کی دعا" },
-  { "id": 106,"orderIndex": 106,"nameEn": "Dua When Seeing the New Moon",                         "nameUrdu": "چاند دیکھنے کی دعا" },
-  { "id": 107,"orderIndex": 107,"nameEn": "Duas When Waiting for Iftar",                          "nameUrdu": "روزہ انتظار کرتے وقت کی دعائیں" },
-  { "id": 108,"orderIndex": 108,"nameEn": "Dua for the One Who Gave You Iftar",                   "nameUrdu": "افطاری کرانے والے کے لیے دعا" },
-  { "id": 109,"orderIndex": 109,"nameEn": "Dua When Invited to an Optional Fast & Cannot Accept", "nameUrdu": "نفلی روزے میں دعوت قبول نہ کرنے والے کی دعا" },
-  { "id": 110,"orderIndex": 110,"nameEn": "What to Say When Someone Insults You While Fasting",   "nameUrdu": "روزے دار کو کوئی شخص گالی دے تو وہ کیا کہے" },
-  { "id": 111,"orderIndex": 111,"nameEn": "Duas for Sneezing",                                    "nameUrdu": "چھینک کی دعائیں" },
-  { "id": 112,"orderIndex": 112,"nameEn": "Dua for the Groom & Bride",                            "nameUrdu": "دولہا، دلہن کو مبارک باد دینے کی دعا" },
-  { "id": 113,"orderIndex": 113,"nameEn": "Dua for the One Getting Married",                      "nameUrdu": "شادی کرنے والے کی اپنی بیوی کو دعا" },
-  { "id": 114,"orderIndex": 114,"nameEn": "Dua Before Going to One's Wife",                       "nameUrdu": "بیوی کے پاس آنے سے پہلے کی دعا" },
-  { "id": 115,"orderIndex": 115,"nameEn": "Congratulations on a Newborn",                         "nameUrdu": "نومولود کی مبارکباد" },
-  { "id": 116,"orderIndex": 116,"nameEn": "What Should the Congratulated Person Reply",           "nameUrdu": "مبارکباد سننے والا کیا جواب دے" },
-  { "id": 117,"orderIndex": 117,"nameEn": "What to Say When Hearing Good News",                   "nameUrdu": "خوشخبری کی بات سننے والا کیا کہے" },
-  { "id": 118,"orderIndex": 118,"nameEn": "Dua in Times of Happiness",                            "nameUrdu": "خوشی کے وقت کی دعا" },
-  { "id": 119,"orderIndex": 119,"nameEn": "Sajdah of Shukr on Receiving Good News",               "nameUrdu": "خوشخبری ملنے پر سجدۂ شکر" },
-  { "id": 120,"orderIndex": 120,"nameEn": "Dua to Put Children in Allah's Protection",            "nameUrdu": "بچوں کو اللہ کی پناہ میں دینے کی دعا" },
-  { "id": 121,"orderIndex": 121,"nameEn": "Command to Supervise Children at Evening",             "nameUrdu": "شام کے وقت بچوں کی نگرانی کا حکم" },
-  { "id": 122,"orderIndex": 122,"nameEn": "What Should a Muslim Say When Praised",                "nameUrdu": "جب مسلمان اپنی تعریف سنے تو کیا کہے" },
-  { "id": 123,"orderIndex": 123,"nameEn": "What to Say When Praising Another Muslim",             "nameUrdu": "مسلمان دوسرے مسلمان کی تعریف میں کیا کہے" },
-  { "id": 124,"orderIndex": 124,"nameEn": "What to Say to One Who Makes Dua for You",             "nameUrdu": "مغفرت کی دعا دینے والے کو کیا کہا جائے" },
-  { "id": 125,"orderIndex": 125,"nameEn": "Dua to Express Love",                                  "nameUrdu": "محبت کا اظہار کرنے والے کے لیے دعا" },
-  { "id": 126,"orderIndex": 126,"nameEn": "Dua for Good Behaviour",                               "nameUrdu": "حسن سلوک کرنے والے کے لیے دعا" },
-  { "id": 127,"orderIndex": 127,"nameEn": "What to Say When Someone Gives Barakah",               "nameUrdu": "برکت کی دعا دینے والے کو کیا کہا جائے" },
-  { "id": 128,"orderIndex": 128,"nameEn": "Dua for the One Who Spends on You",                    "nameUrdu": "مال ودولت خرچ کرنے والے کے لیے دعا" },
-  { "id": 129,"orderIndex": 129,"nameEn": "Dua During a Gathering",                               "nameUrdu": "دوران مجلس کی دعا" },
-  { "id": 130,"orderIndex": 130,"nameEn": "Kaffarah al-Majlis",                                   "nameUrdu": "کفارۂ مجلس" },
-  { "id": 131,"orderIndex": 131,"nameEn": "Encouragement to Say Salaam Often",                    "nameUrdu": "کثرت سے سلام کہنے کی تلقین" },
-  { "id": 132,"orderIndex": 132,"nameEn": "Reply to a Kafir's Salaam",                            "nameUrdu": "کافر کے سلام کا جواب" },
-  { "id": 133,"orderIndex": 133,"nameEn": "Duas for Protection from Drought & Rain",              "nameUrdu": "قحط سالی سے بچاو اور بارش کی دعائیں" },
-  { "id": 134,"orderIndex": 134,"nameEn": "Duas for Wind",                                        "nameUrdu": "آندھی کی دعائیں" },
-  { "id": 135,"orderIndex": 135,"nameEn": "Dua for Thunder",                                      "nameUrdu": "بادل گرجنے کی دعا" },
-  { "id": 136,"orderIndex": 136,"nameEn": "What to Do When Rain Falls",                           "nameUrdu": "بارش دیکھ کر کیا کہا جائے" },
-  { "id": 137,"orderIndex": 137,"nameEn": "What to Do When Rain is Excessive",                    "nameUrdu": "بارش ضرورت سے زائد ہو جائے تو کیا کہا جائے" },
-  { "id": 138,"orderIndex": 138,"nameEn": "Dua When Hearing a Rooster",                           "nameUrdu": "مرغ بولنے کے وقت کی دعا" },
-  { "id": 139,"orderIndex": 139,"nameEn": "Dua When Hearing a Donkey Bray",                       "nameUrdu": "گدھا رینگنے کے وقت کی دعا" },
-  { "id": 140,"orderIndex": 140,"nameEn": "Dua When Dogs Bark at Night",                          "nameUrdu": "رات کو کتوں کے بھون
+  {
+    "id": 1,
+    "orderIndex": 1,
+    "nameEn": "Publisher's Note",
+    "nameUrdu": "عرض ناشر"
+  },
+  {
+    "id": 2,
+    "orderIndex": 2,
+    "nameEn": "Introduction",
+    "nameUrdu": "مقدمہ"
+  },
+  {
+    "id": 3,
+    "orderIndex": 3,
+    "nameEn": "Dhikr According to Sunnah is Obligatory",
+    "nameUrdu": "ذکر سنت کے مطابق کرنا واجب ہے"
+  },
+  {
+    "id": 4,
+    "orderIndex": 4,
+    "nameEn": "Importance & Virtue of Dhikr",
+    "nameUrdu": "ذکر کی اہمیت وفضیلت"
+  },
+  {
+    "id": 5,
+    "orderIndex": 5,
+    "nameEn": "Hamd, Takbir & La Ilaha IllAllah — Virtue",
+    "nameUrdu": "حمد وثناء، تکبیر اور لا الہ الا اللہ کی فضیلت"
+  },
+  {
+    "id": 6,
+    "orderIndex": 6,
+    "nameEn": "Virtue of Sending Salawat on the Prophet (PBUH)",
+    "nameUrdu": "رسول اللہ ﷺ پر درود بھیجنے کی فضیلت"
+  },
+  {
+    "id": 7,
+    "orderIndex": 7,
+    "nameEn": "Tawbah & Istighfar",
+    "nameUrdu": "توبہ واستغفار"
+  },
+  {
+    "id": 8,
+    "orderIndex": 8,
+    "nameEn": "Duas Before Sleeping",
+    "nameUrdu": "سوتے وقت کی دعائیں"
+  },
+  {
+    "id": 9,
+    "orderIndex": 9,
+    "nameEn": "Dua When Turning Over at Night",
+    "nameUrdu": "رات کو کروٹ بدلتے وقت کی دعا"
+  },
+  {
+    "id": 10,
+    "orderIndex": 10,
+    "nameEn": "Dua for Fear or Disturbance in Sleep",
+    "nameUrdu": "نیند میں گھبراہٹ یا وحشت کے وقت کی دعا"
+  },
+  {
+    "id": 11,
+    "orderIndex": 11,
+    "nameEn": "Good or Bad Dream — What to Do",
+    "nameUrdu": "اچھا یا برا خواب آئے یا اچانک آنکھ کھل جائے تو کیا کرے"
+  },
+  {
+    "id": 12,
+    "orderIndex": 12,
+    "nameEn": "Duas Upon Waking",
+    "nameUrdu": "نیند سے بیدار ہونے کی دعائیں"
+  },
+  {
+    "id": 13,
+    "orderIndex": 13,
+    "nameEn": "Dua Entering the Toilet",
+    "nameUrdu": "بیت الخلا میں داخل ہونے کی دعا"
+  },
+  {
+    "id": 14,
+    "orderIndex": 14,
+    "nameEn": "Dua Leaving the Toilet",
+    "nameUrdu": "بیت الخلا سے نکلنے کی دعا"
+  },
+  {
+    "id": 15,
+    "orderIndex": 15,
+    "nameEn": "Dua Going Towards the Masjid",
+    "nameUrdu": "مسجد کی طرف جانے کی دعا"
+  },
+  {
+    "id": 16,
+    "orderIndex": 16,
+    "nameEn": "Dua Entering the Masjid",
+    "nameUrdu": "مسجد میں داخل ہونے کی دعا"
+  },
+  {
+    "id": 17,
+    "orderIndex": 17,
+    "nameEn": "Dua Leaving the Masjid",
+    "nameUrdu": "مسجد سے نکلنے کی دعا"
+  },
+  {
+    "id": 18,
+    "orderIndex": 18,
+    "nameEn": "Dua Before Wudu",
+    "nameUrdu": "وضو سے پہلے کی دعا"
+  },
+  {
+    "id": 19,
+    "orderIndex": 19,
+    "nameEn": "Duas After Wudu",
+    "nameUrdu": "وضو کے بعد کی دعائیں"
+  },
+  {
+    "id": 20,
+    "orderIndex": 20,
+    "nameEn": "Adhan",
+    "nameUrdu": "اذان"
+  },
+  {
+    "id": 21,
+    "orderIndex": 21,
+    "nameEn": "Responding to the Adhan",
+    "nameUrdu": "اذان کا جواب"
+  },
+  {
+    "id": 22,
+    "orderIndex": 22,
+    "nameEn": "Dua After Adhan & Salawat",
+    "nameUrdu": "اذان کے بعد درود شریف اور مسنون دعا"
+  },
+  {
+    "id": 23,
+    "orderIndex": 23,
+    "nameEn": "Takbir (Iqamah)",
+    "nameUrdu": "تکبیر (اقامت)"
+  },
+  {
+    "id": 24,
+    "orderIndex": 24,
+    "nameEn": "Duas After Takbir-e-Tahreema",
+    "nameUrdu": "تکبیر تحریمہ کے بعد کی دعائیں"
+  },
+  {
+    "id": 25,
+    "orderIndex": 25,
+    "nameEn": "Ta'awwudh, Bismillah & Surah Fatiha",
+    "nameUrdu": "تعوذ، بسملہ اور سورۃ فاتحہ"
+  },
+  {
+    "id": 26,
+    "orderIndex": 26,
+    "nameEn": "Quranic Recitation After Surah Fatiha",
+    "nameUrdu": "سورۃ فاتحہ کے بعد قرآنی سلاوت"
+  },
+  {
+    "id": 27,
+    "orderIndex": 27,
+    "nameEn": "Duas of Ruku",
+    "nameUrdu": "رکوع کی دعائیں"
+  },
+  {
+    "id": 28,
+    "orderIndex": 28,
+    "nameEn": "Duas Rising from Ruku",
+    "nameUrdu": "رکوع سے اٹھنے کی دعائیں"
+  },
+  {
+    "id": 29,
+    "orderIndex": 29,
+    "nameEn": "Duas of Sujood",
+    "nameUrdu": "سجدے کی دعائیں"
+  },
+  {
+    "id": 30,
+    "orderIndex": 30,
+    "nameEn": "Duas Between Two Sajdahs",
+    "nameUrdu": "دو سجدوں کے درمیان کی دعائیں"
+  },
+  {
+    "id": 31,
+    "orderIndex": 31,
+    "nameEn": "Tashahhud, Durood & Salaam",
+    "nameUrdu": "تشہد اور درود و سلام"
+  },
+  {
+    "id": 32,
+    "orderIndex": 32,
+    "nameEn": "Duas Before Salaam",
+    "nameUrdu": "سلام پھیرنے سے پہلے کی دعائیں"
+  },
+  {
+    "id": 33,
+    "orderIndex": 33,
+    "nameEn": "Duas After Salaam",
+    "nameUrdu": "سلام پھیرنے کے بعد کی دعائیں"
+  },
+  {
+    "id": 34,
+    "orderIndex": 34,
+    "nameEn": "Prophetic Method of Tasbih",
+    "nameUrdu": "تسبیح کا نبوی طریقہ"
+  },
+  {
+    "id": 35,
+    "orderIndex": 35,
+    "nameEn": "Duas of Witr Prayer",
+    "nameUrdu": "قنوت وتر کی دعائیں"
+  },
+  {
+    "id": 36,
+    "orderIndex": 36,
+    "nameEn": "Dua After Witr Prayer",
+    "nameUrdu": "نماز وتر کے بعد کی دعا"
+  },
+  {
+    "id": 37,
+    "orderIndex": 37,
+    "nameEn": "Dua of Salat al-Istikhara",
+    "nameUrdu": "نماز استخارہ کی دعا"
+  },
+  {
+    "id": 38,
+    "orderIndex": 38,
+    "nameEn": "About Qunut Nazilah",
+    "nameUrdu": "قنوت نازلہ کا بیان"
+  },
+  {
+    "id": 39,
+    "orderIndex": 39,
+    "nameEn": "Qunut Nazilah",
+    "nameUrdu": "قنوت نازلہ"
+  },
+  {
+    "id": 40,
+    "orderIndex": 40,
+    "nameEn": "Janazah Prayer",
+    "nameUrdu": "نماز جنازہ"
+  },
+  {
+    "id": 41,
+    "orderIndex": 41,
+    "nameEn": "Duas of Janazah Prayer",
+    "nameUrdu": "نماز جنازہ کی دعائیں"
+  },
+  {
+    "id": 42,
+    "orderIndex": 42,
+    "nameEn": "Duas for Child's Janazah Prayer",
+    "nameUrdu": "بچے کی نماز جنازہ کی دعائیں"
+  },
+  {
+    "id": 43,
+    "orderIndex": 43,
+    "nameEn": "Duas of Condolence",
+    "nameUrdu": "تعزیت کی دعائیں"
+  },
+  {
+    "id": 44,
+    "orderIndex": 44,
+    "nameEn": "Dua When Lowering Deceased into Grave",
+    "nameUrdu": "میت قبر میں اتارتے وقت کی دعا"
+  },
+  {
+    "id": 45,
+    "orderIndex": 45,
+    "nameEn": "Dua After Burial",
+    "nameUrdu": "میت دفن کرنے کے بعد کی دعا"
+  },
+  {
+    "id": 46,
+    "orderIndex": 46,
+    "nameEn": "Dua Visiting Graves",
+    "nameUrdu": "زیارت قبور کی دعا"
+  },
+  {
+    "id": 47,
+    "orderIndex": 47,
+    "nameEn": "Dua to Protect from Waswas in Quran & Prayer",
+    "nameUrdu": "قرآن اور نماز میں وسوسے سے بچاو کی دعا"
+  },
+  {
+    "id": 48,
+    "orderIndex": 48,
+    "nameEn": "Duas of Sajdah al-Tilawah",
+    "nameUrdu": "سجدۃ تلاوت کی دعائیں"
+  },
+  {
+    "id": 49,
+    "orderIndex": 49,
+    "nameEn": "Morning & Evening Adhkar & Duas",
+    "nameUrdu": "صبح وشام کے اذکار اور دعائیں"
+  },
+  {
+    "id": 50,
+    "orderIndex": 50,
+    "nameEn": "Duas for Relief from Hardship & Debt",
+    "nameUrdu": "مصائب ومشکلات اور قرض سے نجات کی دعائیں"
+  },
+  {
+    "id": 51,
+    "orderIndex": 51,
+    "nameEn": "Allah's Greatest Name & Powerful Verses",
+    "nameUrdu": "اللہ تعالیٰ کے اسم اعظم والی آیات اور دعائیں"
+  },
+  {
+    "id": 52,
+    "orderIndex": 52,
+    "nameEn": "Duas for Relief from Grief & Sorrow",
+    "nameUrdu": "فکرمندی اور غم سے نجات کی دعائیں"
+  },
+  {
+    "id": 53,
+    "orderIndex": 53,
+    "nameEn": "Dua for Solving Problems",
+    "nameUrdu": "مشکلات کے حل کی دعا"
+  },
+  {
+    "id": 54,
+    "orderIndex": 54,
+    "nameEn": "Duas in Times of Restlessness & Anxiety",
+    "nameUrdu": "بے قراری اور اضطراب کے وقت کی دعائیں"
+  },
+  {
+    "id": 55,
+    "orderIndex": 55,
+    "nameEn": "Duas for Relief from Debt",
+    "nameUrdu": "قرض سے نجات کی دعائیں"
+  },
+  {
+    "id": 56,
+    "orderIndex": 56,
+    "nameEn": "Dua When Repaying Debt",
+    "nameUrdu": "قرض واپس کرتے وقت کی دعا"
+  },
+  {
+    "id": 57,
+    "orderIndex": 57,
+    "nameEn": "Dua When Calamity Strikes",
+    "nameUrdu": "مصیبت کے وقت نعم البدل مانگنے کی دعا"
+  },
+  {
+    "id": 58,
+    "orderIndex": 58,
+    "nameEn": "What to Say in Times of Distress",
+    "nameUrdu": "گھبراہٹ کے وقت کیا کہا جائے"
+  },
+  {
+    "id": 59,
+    "orderIndex": 59,
+    "nameEn": "Dua for Anger",
+    "nameUrdu": "غصہ آجانے کے وقت کی دعا"
+  },
+  {
+    "id": 60,
+    "orderIndex": 60,
+    "nameEn": "Dua to Be Safe from Shayateen's Tricks",
+    "nameUrdu": "سرکش شیطانوں کے مکر وفریب سے بچنے کی دعا"
+  },
+  {
+    "id": 61,
+    "orderIndex": 61,
+    "nameEn": "Dua When Feeling Helpless",
+    "nameUrdu": "تدبیر الٹ جانے پر بے بسی کی دعا"
+  },
+  {
+    "id": 62,
+    "orderIndex": 62,
+    "nameEn": "How to Express Distress",
+    "nameUrdu": "پریشان آدمی اپنا حال کیسے بتائے"
+  },
+  {
+    "id": 63,
+    "orderIndex": 63,
+    "nameEn": "What to Do When Feeling Physical Pain",
+    "nameUrdu": "جسم میں تکلیف محسوس ہو تو کیا کہے"
+  },
+  {
+    "id": 64,
+    "orderIndex": 64,
+    "nameEn": "Dua When Seeing Someone in Calamity",
+    "nameUrdu": "مصیبت زدہ کو دیکھنے کے وقت کی دعا"
+  },
+  {
+    "id": 65,
+    "orderIndex": 65,
+    "nameEn": "Duas When Facing Enemy or Authority",
+    "nameUrdu": "دشمن اور صاحب سلطنت سے ملتے وقت کی دعائیں"
+  },
+  {
+    "id": 66,
+    "orderIndex": 66,
+    "nameEn": "Duas When Fearing a King's Oppression",
+    "nameUrdu": "بادشاہ کے ظلم سے خوف کی دعائیں"
+  },
+  {
+    "id": 67,
+    "orderIndex": 67,
+    "nameEn": "Dua Against an Enemy",
+    "nameUrdu": "دشمن کے لیے بد دعا"
+  },
+  {
+    "id": 68,
+    "orderIndex": 68,
+    "nameEn": "Dua for Protection from People's Evil",
+    "nameUrdu": "لوگوں کے شر سے ڈرے تو یہ دعا مانگے"
+  },
+  {
+    "id": 69,
+    "orderIndex": 69,
+    "nameEn": "What to Do When Doubt in Faith Occurs",
+    "nameUrdu": "جسے ایمان میں شک ہو جائے وہ کیا کرے"
+  },
+  {
+    "id": 70,
+    "orderIndex": 70,
+    "nameEn": "Dua to Stay Safe from Shirk",
+    "nameUrdu": "شرک سے محفوظ رہنے کی دعا"
+  },
+  {
+    "id": 71,
+    "orderIndex": 71,
+    "nameEn": "What to Do After Committing a Sin",
+    "nameUrdu": "گناہ کر بیٹھے تو کیا کہے اور کیا کرے"
+  },
+  {
+    "id": 72,
+    "orderIndex": 72,
+    "nameEn": "When Does Shaytan Flee",
+    "nameUrdu": "شیطان کب بھاگتا ہے"
+  },
+  {
+    "id": 73,
+    "orderIndex": 73,
+    "nameEn": "Practices to Stay Safe from Dajjal",
+    "nameUrdu": "دجال سے محفوظ رہنے کے وظائف"
+  },
+  {
+    "id": 74,
+    "orderIndex": 74,
+    "nameEn": "Dua to Declare Innocence from Every Pain",
+    "nameUrdu": "ہر تکلیف سے اظہار براءت کے لیے دعا"
+  },
+  {
+    "id": 75,
+    "orderIndex": 75,
+    "nameEn": "What Did the Prophet (PBUH) Advise the Worried",
+    "nameUrdu": "نبی پاک ﷺ نے کاندیشہ ہو تو کیا کہے"
+  },
+  {
+    "id": 76,
+    "orderIndex": 76,
+    "nameEn": "Dua for Someone Insulted or Harmed",
+    "nameUrdu": "ایسے شخص کے لیے دعا جسے گالی یا تکلیف دی ہو"
+  },
+  {
+    "id": 77,
+    "orderIndex": 77,
+    "nameEn": "Duas of Hajj, Umrah & Travel",
+    "nameUrdu": "حج اور عمرہ اور سفر کی دعائیں"
+  },
+  {
+    "id": 78,
+    "orderIndex": 78,
+    "nameEn": "Dua When Boarding a Vehicle",
+    "nameUrdu": "سواری پر بیٹھنے کی دعا"
+  },
+  {
+    "id": 79,
+    "orderIndex": 79,
+    "nameEn": "Dua at the Start of a Journey",
+    "nameUrdu": "آغاز سفر کی دعا"
+  },
+  {
+    "id": 80,
+    "orderIndex": 80,
+    "nameEn": "Dua When Entering a Town or Village",
+    "nameUrdu": "کسی شہر یا بستی میں داخل ہونے کی دعا"
+  },
+  {
+    "id": 81,
+    "orderIndex": 81,
+    "nameEn": "Dua When the Mount Stumbles",
+    "nameUrdu": "سواری پھسلنے کے وقت کی دعا"
+  },
+  {
+    "id": 82,
+    "orderIndex": 82,
+    "nameEn": "Tasbih & Takbir During Journey",
+    "nameUrdu": "دوران سفر تسبیح وتکبیر"
+  },
+  {
+    "id": 83,
+    "orderIndex": 83,
+    "nameEn": "Dua at Dawn During Travel",
+    "nameUrdu": "دوران سفر صبح کے وقت کی دعا"
+  },
+  {
+    "id": 84,
+    "orderIndex": 84,
+    "nameEn": "Dua to Stay Safe from People's Evil While Traveling",
+    "nameUrdu": "لوگوں کے شر کے بغیر کسی جگہ ٹھہرنے کی دعا"
+  },
+  {
+    "id": 85,
+    "orderIndex": 85,
+    "nameEn": "Near the Black Stone — Say Allahu Akbar",
+    "nameUrdu": "حجر اسود کے قریب جا کر اللہ اکبر کہنا"
+  },
+  {
+    "id": 86,
+    "orderIndex": 86,
+    "nameEn": "Dua Between Rukn Yamani and Hajr Aswad",
+    "nameUrdu": "رکن یمانی اور حجر اسود کے درمیان کی دعا"
+  },
+  {
+    "id": 87,
+    "orderIndex": 87,
+    "nameEn": "Dua at Safa & Marwah",
+    "nameUrdu": "صفا اور مروہ کے مقام پر پڑھی جانے والی دعا"
+  },
+  {
+    "id": 88,
+    "orderIndex": 88,
+    "nameEn": "Dua of Yawm Arafah (9 Dhul Hijjah)",
+    "nameUrdu": "یوم عرفہ (9 ذوالحجہ) کی دعا"
+  },
+  {
+    "id": 89,
+    "orderIndex": 89,
+    "nameEn": "Dhikr at Muzdalifah",
+    "nameUrdu": "مشعر حرام کے پاس ذکر واذکار"
+  },
+  {
+    "id": 90,
+    "orderIndex": 90,
+    "nameEn": "Takbir with Each Pebble at Rami",
+    "nameUrdu": "رمی جمرات کے وقت ہر کنگری کے ساتھ تکبیر"
+  },
+  {
+    "id": 91,
+    "orderIndex": 91,
+    "nameEn": "Dua When Slaughtering a Common Animal",
+    "nameUrdu": "عام جانور یا اونٹ ذبح کرتے وقت کی دعا"
+  },
+  {
+    "id": 92,
+    "orderIndex": 92,
+    "nameEn": "Dua When Slaughtering a Sacrificial Animal",
+    "nameUrdu": "قربانی کا جانور ذبح کرنے کی دعا"
+  },
+  {
+    "id": 93,
+    "orderIndex": 93,
+    "nameEn": "Dua Before Eating",
+    "nameUrdu": "کھانا کھانے سے پہلے کی دعا"
+  },
+  {
+    "id": 94,
+    "orderIndex": 94,
+    "nameEn": "Duas After Eating",
+    "nameUrdu": "کھانے سے فراغت کے بعد کی دعائیں"
+  },
+  {
+    "id": 95,
+    "orderIndex": 95,
+    "nameEn": "Dua for the Host",
+    "nameUrdu": "مہمان کی میزبان کے لیے دعا"
+  },
+  {
+    "id": 96,
+    "orderIndex": 96,
+    "nameEn": "Dua for the One Who Fed You",
+    "nameUrdu": "پلانے والے کے لیے دعا"
+  },
+  {
+    "id": 97,
+    "orderIndex": 97,
+    "nameEn": "Dua When Seeing New Fruit",
+    "nameUrdu": "نیا پھل دیکھتے وقت کی دعا"
+  },
+  {
+    "id": 98,
+    "orderIndex": 98,
+    "nameEn": "Dua When Wearing New Clothes",
+    "nameUrdu": "نیا لباس پہننے کی دعا"
+  },
+  {
+    "id": 99,
+    "orderIndex": 99,
+    "nameEn": "Dua for the One Who Wears New Clothes",
+    "nameUrdu": "نیا لباس پہننے والے کے لیے دعائیں"
+  },
+  {
+    "id": 100,
+    "orderIndex": 100,
+    "nameEn": "Dua for Wearing Common Clothes",
+    "nameUrdu": "عام لباس پہننے کی دعا"
+  },
+  {
+    "id": 101,
+    "orderIndex": 101,
+    "nameEn": "Dua When Removing Clothes",
+    "nameUrdu": "لباس اتارتے وقت کی دعا"
+  },
+  {
+    "id": 102,
+    "orderIndex": 102,
+    "nameEn": "Daily Duas",
+    "nameUrdu": "روزمرہ دعائیں"
+  },
+  {
+    "id": 103,
+    "orderIndex": 103,
+    "nameEn": "Duas When Leaving Home",
+    "nameUrdu": "گھر سے نکلتے وقت کی دعائیں"
+  },
+  {
+    "id": 104,
+    "orderIndex": 104,
+    "nameEn": "Dua When Entering Home",
+    "nameUrdu": "گھر میں داخل ہوتے وقت کی دعا"
+  },
+  {
+    "id": 105,
+    "orderIndex": 105,
+    "nameEn": "Dua When Entering the Market",
+    "nameUrdu": "بازار میں داخل ہونے کی دعا"
+  },
+  {
+    "id": 106,
+    "orderIndex": 106,
+    "nameEn": "Dua When Seeing the New Moon",
+    "nameUrdu": "چاند دیکھنے کی دعا"
+  },
+  {
+    "id": 107,
+    "orderIndex": 107,
+    "nameEn": "Duas When Waiting for Iftar",
+    "nameUrdu": "روزہ انتظار کرتے وقت کی دعائیں"
+  },
+  {
+    "id": 108,
+    "orderIndex": 108,
+    "nameEn": "Dua for the One Who Gave You Iftar",
+    "nameUrdu": "افطاری کرانے والے کے لیے دعا"
+  },
+  {
+    "id": 109,
+    "orderIndex": 109,
+    "nameEn": "Dua When Invited to an Optional Fast & Cannot Accept",
+    "nameUrdu": "نفلی روزے میں دعوت قبول نہ کرنے والے کی دعا"
+  },
+  {
+    "id": 110,
+    "orderIndex": 110,
+    "nameEn": "What to Say When Someone Insults You While Fasting",
+    "nameUrdu": "روزے دار کو کوئی شخص گالی دے تو وہ کیا کہے"
+  },
+  {
+    "id": 111,
+    "orderIndex": 111,
+    "nameEn": "Duas for Sneezing",
+    "nameUrdu": "چھینک کی دعائیں"
+  },
+  {
+    "id": 112,
+    "orderIndex": 112,
+    "nameEn": "Dua for the Groom & Bride",
+    "nameUrdu": "دولہا، دلہن کو مبارک باد دینے کی دعا"
+  },
+  {
+    "id": 113,
+    "orderIndex": 113,
+    "nameEn": "Dua for the One Getting Married",
+    "nameUrdu": "شادی کرنے والے کی اپنی بیوی کو دعا"
+  },
+  {
+    "id": 114,
+    "orderIndex": 114,
+    "nameEn": "Dua Before Going to One's Wife",
+    "nameUrdu": "بیوی کے پاس آنے سے پہلے کی دعا"
+  },
+  {
+    "id": 115,
+    "orderIndex": 115,
+    "nameEn": "Congratulations on a Newborn",
+    "nameUrdu": "نومولود کی مبارکباد"
+  },
+  {
+    "id": 116,
+    "orderIndex": 116,
+    "nameEn": "What Should the Congratulated Person Reply",
+    "nameUrdu": "مبارکباد سننے والا کیا جواب دے"
+  },
+  {
+    "id": 117,
+    "orderIndex": 117,
+    "nameEn": "What to Say When Hearing Good News",
+    "nameUrdu": "خوشخبری کی بات سننے والا کیا کہے"
+  },
+  {
+    "id": 118,
+    "orderIndex": 118,
+    "nameEn": "Dua in Times of Happiness",
+    "nameUrdu": "خوشی کے وقت کی دعا"
+  },
+  {
+    "id": 119,
+    "orderIndex": 119,
+    "nameEn": "Sajdah of Shukr on Receiving Good News",
+    "nameUrdu": "خوشخبری ملنے پر سجدۂ شکر"
+  },
+  {
+    "id": 120,
+    "orderIndex": 120,
+    "nameEn": "Dua to Put Children in Allah's Protection",
+    "nameUrdu": "بچوں کو اللہ کی پناہ میں دینے کی دعا"
+  },
+  {
+    "id": 121,
+    "orderIndex": 121,
+    "nameEn": "Command to Supervise Children at Evening",
+    "nameUrdu": "شام کے وقت بچوں کی نگرانی کا حکم"
+  },
+  {
+    "id": 122,
+    "orderIndex": 122,
+    "nameEn": "What Should a Muslim Say When Praised",
+    "nameUrdu": "جب مسلمان اپنی تعریف سنے تو کیا کہے"
+  },
+  {
+    "id": 123,
+    "orderIndex": 123,
+    "nameEn": "What to Say When Praising Another Muslim",
+    "nameUrdu": "مسلمان دوسرے مسلمان کی تعریف میں کیا کہے"
+  },
+  {
+    "id": 124,
+    "orderIndex": 124,
+    "nameEn": "What to Say to One Who Makes Dua for You",
+    "nameUrdu": "مغفرت کی دعا دینے والے کو کیا کہا جائے"
+  },
+  {
+    "id": 125,
+    "orderIndex": 125,
+    "nameEn": "Dua to Express Love",
+    "nameUrdu": "محبت کا اظہار کرنے والے کے لیے دعا"
+  },
+  {
+    "id": 126,
+    "orderIndex": 126,
+    "nameEn": "Dua for Good Behaviour",
+    "nameUrdu": "حسن سلوک کرنے والے کے لیے دعا"
+  },
+  {
+    "id": 127,
+    "orderIndex": 127,
+    "nameEn": "What to Say When Someone Gives Barakah",
+    "nameUrdu": "برکت کی دعا دینے والے کو کیا کہا جائے"
+  },
+  {
+    "id": 128,
+    "orderIndex": 128,
+    "nameEn": "Dua for the One Who Spends on You",
+    "nameUrdu": "مال ودولت خرچ کرنے والے کے لیے دعا"
+  },
+  {
+    "id": 129,
+    "orderIndex": 129,
+    "nameEn": "Dua During a Gathering",
+    "nameUrdu": "دوران مجلس کی دعا"
+  },
+  {
+    "id": 130,
+    "orderIndex": 130,
+    "nameEn": "Kaffarah al-Majlis",
+    "nameUrdu": "کفارۂ مجلس"
+  },
+  {
+    "id": 131,
+    "orderIndex": 131,
+    "nameEn": "Encouragement to Say Salaam Often",
+    "nameUrdu": "کثرت سے سلام کہنے کی تلقین"
+  },
+  {
+    "id": 132,
+    "orderIndex": 132,
+    "nameEn": "Reply to a Kafir's Salaam",
+    "nameUrdu": "کافر کے سلام کا جواب"
+  },
+  {
+    "id": 133,
+    "orderIndex": 133,
+    "nameEn": "Duas for Protection from Drought & Rain",
+    "nameUrdu": "قحط سالی سے بچاو اور بارش کی دعائیں"
+  },
+  {
+    "id": 134,
+    "orderIndex": 134,
+    "nameEn": "Duas for Wind",
+    "nameUrdu": "آندھی کی دعائیں"
+  },
+  {
+    "id": 135,
+    "orderIndex": 135,
+    "nameEn": "Dua for Thunder",
+    "nameUrdu": "بادل گرجنے کی دعا"
+  },
+  {
+    "id": 136,
+    "orderIndex": 136,
+    "nameEn": "What to Do When Rain Falls",
+    "nameUrdu": "بارش دیکھ کر کیا کہا جائے"
+  },
+  {
+    "id": 137,
+    "orderIndex": 137,
+    "nameEn": "What to Do When Rain is Excessive",
+    "nameUrdu": "بارش ضرورت سے زائد ہو جائے تو کیا کہا جائے"
+  },
+  {
+    "id": 138,
+    "orderIndex": 138,
+    "nameEn": "Dua When Hearing a Rooster",
+    "nameUrdu": "مرغ بولنے کے وقت کی دعا"
+  },
+  {
+    "id": 139,
+    "orderIndex": 139,
+    "nameEn": "Dua When Hearing a Donkey Bray",
+    "nameUrdu": "گدھا رینگنے کے وقت کی دعا"
+  },
+  {
+    "id": 140,
+    "orderIndex": 140,
+    "nameEn": "Dua When Dogs Bark at Night",
+    "nameUrdu": "رات کو کتوں کے بھونکنے کے وقت کی دعا"
+  },
+  {
+    "id": 141,
+    "orderIndex": 141,
+    "nameEn": "Virtue of Visiting the Sick",
+    "nameUrdu": "بیمار پرسی کی فضیلت"
+  },
+  {
+    "id": 142,
+    "orderIndex": 142,
+    "nameEn": "Duas When Visiting the Sick",
+    "nameUrdu": "بیمار پرسی کے وقت کے لیے دعائیں"
+  },
+  {
+    "id": 143,
+    "orderIndex": 143,
+    "nameEn": "Duas for a Terminally Ill Patient",
+    "nameUrdu": "زندگی سے ناامید مریض کی دعائیں"
+  },
+  {
+    "id": 144,
+    "orderIndex": 144,
+    "nameEn": "Command to Give Talqeen Near Death",
+    "nameUrdu": "قریب الموت کو تلقین کرنے کا حکم"
+  },
+  {
+    "id": 145,
+    "orderIndex": 145,
+    "nameEn": "Dua When Closing the Eyes of the Deceased",
+    "nameUrdu": "میت کی آنکھیں بند کرتے وقت کی دعا"
+  }
+]
