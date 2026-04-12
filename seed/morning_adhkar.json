@@ -83,5 +83,22 @@
     "situationTags": ["morning", "gratitude", "daily", "blessing"],
     "isFavourite": false,
     "isCompleted": false
+  },
+  {
+    "id": 106,
+    "orderIndex": 6,
+    "arabicText": "اللَّهُمَّ مَا أَصْبَحَ بِي مِنْ نِعْمَةٍ أَوْ بِأَحَدٍ مِنْ خَلْقِكَ فَمِنْكَ وَحْدَكَ لَا شَرِيكَ لَكَ، فَلَكَ الْحَمْدُ وَلَكَ الشُّكْرُ",
+    "transliteration": "Allahumma ma asbaha bi min ni'matin aw bi'ahadin min khalqika faminka wahdaka la sharika lak, falakal hamdu wa lakash-shukr.",
+    "englishTranslation": "O Allah, whatever blessing I or any of Your creation have risen upon, it is from You alone, without partner, so to You belongs all praise and to You belongs all thanks.",
+    "urduTranslation": "اے اللہ! جو بھی نعمت مجھے یا تیری کسی مخلوق کو صبح ہوئی ہے، وہ صرف تیری طرف سے ہے، تیرا کوئی شریک نہیں، پس تیرے ہی لیے تعریف ہے اور تیرا ہی شکر ہے۔",
+    "repetitions": 1,
+    "type": "MORNING",
+    "category": "MORNING_ADHKAR",
+    "reference": "Abu Dawud 5073",
+    "sourceBook": "Hisnul Muslim",
+    "fadhail": "Whoever says this in the morning has given thanks for that day.",
+    "situationTags": ["morning", "gratitude", "daily", "blessing"],
+    "isFavourite": false,
+    "isCompleted": false
   }
 ]
