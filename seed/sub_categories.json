@@ -3,870 +3,1672 @@
     "id": 1,
     "orderIndex": 1,
     "nameEn": "Publisher's Note",
-    "nameUrdu": "عرض ناشر"
+    "nameUrdu": "عرض ناشر",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 15,
+    "hasContent": false,
+    "duaIds": []
   },
   {
     "id": 2,
     "orderIndex": 2,
     "nameEn": "Introduction",
-    "nameUrdu": "مقدمہ"
+    "nameUrdu": "مقدمه",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 21,
+    "hasContent": false,
+    "duaIds": []
   },
   {
     "id": 3,
     "orderIndex": 3,
-    "nameEn": "Dhikr According to Sunnah is Obligatory",
-    "nameUrdu": "ذکر سنت کے مطابق کرنا واجب ہے"
+    "nameEn": "Dhikr according to Sunnah is Obligatory",
+    "nameUrdu": "ذکر سنت کے مطابق کرنا واجب ہے",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 21,
+    "hasContent": false,
+    "duaIds": []
   },
   {
     "id": 4,
     "orderIndex": 4,
-    "nameEn": "Importance & Virtue of Dhikr",
-    "nameUrdu": "ذکر کی اہمیت وفضیلت"
+    "nameEn": "Importance and Excellence of Dhikr",
+    "nameUrdu": "ذکر کی اہمیت و فضیلت",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 22,
+    "hasContent": false,
+    "duaIds": []
   },
   {
     "id": 5,
     "orderIndex": 5,
-    "nameEn": "Hamd, Takbir & La Ilaha IllAllah — Virtue",
-    "nameUrdu": "حمد وثناء، تکبیر اور لا الہ الا اللہ کی فضیلت"
+    "nameEn": "Excellence of Tasbih, Tahmid, and Takbir",
+    "nameUrdu": "حمد وثناء تعبیر اور لا الہ الا اللہ کی فضیلت",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAISE_ALLAH",
+    "pageNumber": 30,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 6,
     "orderIndex": 6,
-    "nameEn": "Virtue of Sending Salawat on the Prophet (PBUH)",
-    "nameUrdu": "رسول اللہ ﷺ پر درود بھیجنے کی فضیلت"
+    "nameEn": "Excellence of sending blessings on the Prophet (PBUH)",
+    "nameUrdu": "رسول اللہ پر درود بھیجنے کی فضیلت",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAISE_ALLAH",
+    "pageNumber": 36,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 7,
     "orderIndex": 7,
-    "nameEn": "Tawbah & Istighfar",
-    "nameUrdu": "توبہ واستغفار"
+    "nameEn": "Repentance and Seeking Forgiveness",
+    "nameUrdu": "تو به و استغفار",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "REPENTANCE",
+    "pageNumber": 39,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 8,
     "orderIndex": 8,
-    "nameEn": "Duas Before Sleeping",
-    "nameUrdu": "سوتے وقت کی دعائیں"
+    "nameEn": "Supplications for Sleeping",
+    "nameUrdu": "سوتے وقت کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "SLEEP",
+    "pageNumber": 42,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 9,
     "orderIndex": 9,
-    "nameEn": "Dua When Turning Over at Night",
-    "nameUrdu": "رات کو کروٹ بدلتے وقت کی دعا"
+    "nameEn": "Supplication when turning over during the night",
+    "nameUrdu": "رات کو کروٹ بدلتے وقت کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "SLEEP",
+    "pageNumber": 51,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 10,
     "orderIndex": 10,
-    "nameEn": "Dua for Fear or Disturbance in Sleep",
-    "nameUrdu": "نیند میں گھبراہٹ یا وحشت کے وقت کی دعا"
+    "nameEn": "Supplication for anxiety or fear during sleep",
+    "nameUrdu": "نیند میں گھبراہٹ یا وحشت کے وقت کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "SLEEP",
+    "pageNumber": 51,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 11,
     "orderIndex": 11,
-    "nameEn": "Good or Bad Dream — What to Do",
-    "nameUrdu": "اچھا یا برا خواب آئے یا اچانک آنکھ کھل جائے تو کیا کرے"
+    "nameEn": "What to do upon having a good or bad dream",
+    "nameUrdu": "اچھا یا برا خواب آئے یا اچانک آنکھ کھل جائے تو کیا کرے؟",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "SLEEP",
+    "pageNumber": 52,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 12,
     "orderIndex": 12,
-    "nameEn": "Duas Upon Waking",
-    "nameUrdu": "نیند سے بیدار ہونے کی دعائیں"
+    "nameEn": "Supplications for waking up from sleep",
+    "nameUrdu": "نیند سے بیدار ہونے کی دعا ئیں۔",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "SLEEP",
+    "pageNumber": 53,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 13,
     "orderIndex": 13,
-    "nameEn": "Dua Entering the Toilet",
-    "nameUrdu": "بیت الخلا میں داخل ہونے کی دعا"
+    "nameEn": "Dua for entering the toilet",
+    "nameUrdu": "بیت الخلا میں داخل ہونے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "HOME_FAMILY",
+    "pageNumber": 59,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 14,
     "orderIndex": 14,
-    "nameEn": "Dua Leaving the Toilet",
-    "nameUrdu": "بیت الخلا سے نکلنے کی دعا"
+    "nameEn": "Dua for leaving the toilet",
+    "nameUrdu": "بیت الخلا سے نکلنے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "HOME_FAMILY",
+    "pageNumber": 59,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 15,
     "orderIndex": 15,
-    "nameEn": "Dua Going Towards the Masjid",
-    "nameUrdu": "مسجد کی طرف جانے کی دعا"
+    "nameEn": "Dua for going to the mosque",
+    "nameUrdu": "مسجد کی طرف جانے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 59,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 16,
     "orderIndex": 16,
-    "nameEn": "Dua Entering the Masjid",
-    "nameUrdu": "مسجد میں داخل ہونے کی دعا"
+    "nameEn": "Dua for entering the mosque",
+    "nameUrdu": "مسجد میں داخل ہونے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 59,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 17,
     "orderIndex": 17,
-    "nameEn": "Dua Leaving the Masjid",
-    "nameUrdu": "مسجد سے نکلنے کی دعا"
+    "nameEn": "Dua for leaving the mosque",
+    "nameUrdu": "مسجد سے نکلنے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 61,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 18,
     "orderIndex": 18,
-    "nameEn": "Dua Before Wudu",
-    "nameUrdu": "وضو سے پہلے کی دعا"
+    "nameEn": "Dua before wudu",
+    "nameUrdu": "وضو سے پہلے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 62,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 19,
     "orderIndex": 19,
-    "nameEn": "Duas After Wudu",
-    "nameUrdu": "وضو کے بعد کی دعائیں"
+    "nameEn": "Dua after wudu",
+    "nameUrdu": "وضو کے بعد کی دعا ئیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 63,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 20,
     "orderIndex": 20,
-    "nameEn": "Adhan",
-    "nameUrdu": "اذان"
+    "nameEn": "Adhan (Call to Prayer)",
+    "nameUrdu": "ازان",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 64,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 21,
     "orderIndex": 21,
     "nameEn": "Responding to the Adhan",
-    "nameUrdu": "اذان کا جواب"
+    "nameUrdu": "اذان کا جواب",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 68,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 22,
     "orderIndex": 22,
-    "nameEn": "Dua After Adhan & Salawat",
-    "nameUrdu": "اذان کے بعد درود شریف اور مسنون دعا"
+    "nameEn": "Dua after Adhan",
+    "nameUrdu": "اذان کے بعد درود شریف اور مسنون دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 69,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 23,
     "orderIndex": 23,
-    "nameEn": "Takbir (Iqamah)",
-    "nameUrdu": "تکبیر (اقامت)"
+    "nameEn": "Iqamah (Call to commence prayer)",
+    "nameUrdu": "تکبیر (اقامت)",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 70,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 24,
     "orderIndex": 24,
-    "nameEn": "Duas After Takbir-e-Tahreema",
-    "nameUrdu": "تکبیر تحریمہ کے بعد کی دعائیں"
+    "nameEn": "Supplications after Takbir-e-Tahrima",
+    "nameUrdu": "تکبیر تحریمہ کے بعد کی دعا ئیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 72,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 25,
     "orderIndex": 25,
-    "nameEn": "Ta'awwudh, Bismillah & Surah Fatiha",
-    "nameUrdu": "تعوذ، بسملہ اور سورۃ فاتحہ"
+    "nameEn": "Seeking refuge, Basmalah, and Surah Al-Fatihah",
+    "nameUrdu": "تعوذ ، بسملہ اور سورہ فاتحہ",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 80,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 26,
     "orderIndex": 26,
-    "nameEn": "Quranic Recitation After Surah Fatiha",
-    "nameUrdu": "سورۃ فاتحہ کے بعد قرآنی سلاوت"
+    "nameEn": "Recitation after Surah Al-Fatihah",
+    "nameUrdu": "سورہ فاتحہ کے بعد قرآنی تلاوت",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 82,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 27,
     "orderIndex": 27,
-    "nameEn": "Duas of Ruku",
-    "nameUrdu": "رکوع کی دعائیں"
+    "nameEn": "Supplications for Ruku",
+    "nameUrdu": "رکوع کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 85,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 28,
     "orderIndex": 28,
-    "nameEn": "Duas Rising from Ruku",
-    "nameUrdu": "رکوع سے اٹھنے کی دعائیں"
+    "nameEn": "Supplications for rising from Ruku",
+    "nameUrdu": "رکوع سے اٹھنے کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 87,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 29,
     "orderIndex": 29,
-    "nameEn": "Duas of Sujood",
-    "nameUrdu": "سجدے کی دعائیں"
+    "nameEn": "Supplications for Sujud",
+    "nameUrdu": "سجدے کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 88,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 30,
     "orderIndex": 30,
-    "nameEn": "Duas Between Two Sajdahs",
-    "nameUrdu": "دو سجدوں کے درمیان کی دعائیں"
+    "nameEn": "Supplications between the two prostrations",
+    "nameUrdu": "دو سجدوں کے درمیان کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 91,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 31,
     "orderIndex": 31,
-    "nameEn": "Tashahhud, Durood & Salaam",
-    "nameUrdu": "تشہد اور درود و سلام"
+    "nameEn": "Tashahhud and Blessings",
+    "nameUrdu": "تشہد اور درود و سلام",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 92,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 32,
     "orderIndex": 32,
-    "nameEn": "Duas Before Salaam",
-    "nameUrdu": "سلام پھیرنے سے پہلے کی دعائیں"
+    "nameEn": "Supplications before the final Taslim",
+    "nameUrdu": "سلام پھیرنے سے پہلے کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 94,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 33,
     "orderIndex": 33,
-    "nameEn": "Duas After Salaam",
-    "nameUrdu": "سلام پھیرنے کے بعد کی دعائیں"
+    "nameEn": "Supplications after the final Taslim",
+    "nameUrdu": "سلام پھیرنے کے بعد کی دعا ئیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 102,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 34,
     "orderIndex": 34,
-    "nameEn": "Prophetic Method of Tasbih",
-    "nameUrdu": "تسبیح کا نبوی طریقہ"
+    "nameEn": "Method of counting Tasbih",
+    "nameUrdu": "تسبیح کا نبوی طریقہ",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 107,
+    "hasContent": false,
+    "duaIds": []
   },
   {
     "id": 35,
     "orderIndex": 35,
-    "nameEn": "Duas of Witr Prayer",
-    "nameUrdu": "قنوت وتر کی دعائیں"
+    "nameEn": "Supplications for Witr Qunoot",
+    "nameUrdu": "قنوت وتر کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 108,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 36,
     "orderIndex": 36,
-    "nameEn": "Dua After Witr Prayer",
-    "nameUrdu": "نماز وتر کے بعد کی دعا"
+    "nameEn": "Dua after Witr Prayer",
+    "nameUrdu": "نماز وتر کے بعد کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 109,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 37,
     "orderIndex": 37,
-    "nameEn": "Dua of Salat al-Istikhara",
-    "nameUrdu": "نماز استخارہ کی دعا"
+    "nameEn": "Supplication for Istikhara",
+    "nameUrdu": "نماز استخارہ کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 110,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 38,
     "orderIndex": 38,
-    "nameEn": "About Qunut Nazilah",
-    "nameUrdu": "قنوت نازلہ کا بیان"
+    "nameEn": "About Qunoot Nazila",
+    "nameUrdu": "قنوت نازلہ کا بیان",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 112,
+    "hasContent": false,
+    "duaIds": []
   },
   {
     "id": 39,
     "orderIndex": 39,
-    "nameEn": "Qunut Nazilah",
-    "nameUrdu": "قنوت نازلہ"
+    "nameEn": "Qunoot Nazila",
+    "nameUrdu": "قنوت نازله",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 113,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 40,
     "orderIndex": 40,
-    "nameEn": "Janazah Prayer",
-    "nameUrdu": "نماز جنازہ"
+    "nameEn": "Funeral Prayer",
+    "nameUrdu": "نماز جنازه",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "FUNERAL",
+    "pageNumber": 114,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 41,
     "orderIndex": 41,
-    "nameEn": "Duas of Janazah Prayer",
-    "nameUrdu": "نماز جنازہ کی دعائیں"
+    "nameEn": "Supplications for Funeral Prayer",
+    "nameUrdu": "نماز جنازہ کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "FUNERAL",
+    "pageNumber": 116,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 42,
     "orderIndex": 42,
-    "nameEn": "Duas for Child's Janazah Prayer",
-    "nameUrdu": "بچے کی نماز جنازہ کی دعائیں"
+    "nameEn": "Funeral Prayer for a Child",
+    "nameUrdu": "بچے کی نماز جنازہ کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "FUNERAL",
+    "pageNumber": 119,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 43,
     "orderIndex": 43,
-    "nameEn": "Duas of Condolence",
-    "nameUrdu": "تعزیت کی دعائیں"
+    "nameEn": "Supplications for Condolence",
+    "nameUrdu": "تعزیت کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "FUNERAL",
+    "pageNumber": 121,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 44,
     "orderIndex": 44,
-    "nameEn": "Dua When Lowering Deceased into Grave",
-    "nameUrdu": "میت قبر میں اتارتے وقت کی دعا"
+    "nameEn": "Dua while lowering the deceased into the grave",
+    "nameUrdu": "میت قبر میں اتارتے وقت کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "FUNERAL",
+    "pageNumber": 122,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 45,
     "orderIndex": 45,
-    "nameEn": "Dua After Burial",
-    "nameUrdu": "میت دفن کرنے کے بعد کی دعا"
+    "nameEn": "Dua after burying the deceased",
+    "nameUrdu": "میت دفن کرنے کے بعد کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "FUNERAL",
+    "pageNumber": 123,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 46,
     "orderIndex": 46,
-    "nameEn": "Dua Visiting Graves",
-    "nameUrdu": "زیارت قبور کی دعا"
+    "nameEn": "Dua for visiting graves",
+    "nameUrdu": "زیارت قبور کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "FUNERAL",
+    "pageNumber": 123,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 47,
     "orderIndex": 47,
-    "nameEn": "Dua to Protect from Waswas in Quran & Prayer",
-    "nameUrdu": "قرآن اور نماز میں وسوسے سے بچاو کی دعا"
+    "nameEn": "Dua for protection against whispers during prayer and recitation",
+    "nameUrdu": "قرآن اور نماز میں وسوسے سے بچاؤ کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 124,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 48,
     "orderIndex": 48,
-    "nameEn": "Duas of Sajdah al-Tilawah",
-    "nameUrdu": "سجدۃ تلاوت کی دعائیں"
+    "nameEn": "Supplications for Sajdah Tilawat",
+    "nameUrdu": "سجدہ تلاوت کی دعا ئیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PRAYER",
+    "pageNumber": 124,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 49,
     "orderIndex": 49,
-    "nameEn": "Morning & Evening Adhkar & Duas",
-    "nameUrdu": "صبح وشام کے اذکار اور دعائیں"
+    "nameEn": "Morning and Evening Adhkar",
+    "nameUrdu": "صبح و شام کے اذکار اور دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "DAILY_ADHKAR",
+    "pageNumber": 126,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 50,
     "orderIndex": 50,
-    "nameEn": "Duas for Relief from Hardship & Debt",
-    "nameUrdu": "مصائب ومشکلات اور قرض سے نجات کی دعائیں"
+    "nameEn": "Supplications for relief from calamities and debt",
+    "nameUrdu": "مصائب و مشکلات اور قرض سے نجات کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 145,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 51,
     "orderIndex": 51,
-    "nameEn": "Allah's Greatest Name & Powerful Verses",
-    "nameUrdu": "اللہ تعالیٰ کے اسم اعظم والی آیات اور دعائیں"
+    "nameEn": "Verses and Supplications containing the Ism-e-Azam",
+    "nameUrdu": "اللہ تعالیٰ کے اسم اعظم والی آیات اور دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 145,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 52,
     "orderIndex": 52,
-    "nameEn": "Duas for Relief from Grief & Sorrow",
-    "nameUrdu": "فکرمندی اور غم سے نجات کی دعائیں"
+    "nameEn": "Supplications for relief from worry and grief",
+    "nameUrdu": "فکرمندی اور غم سے نجات کی دعا ئیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 148,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 53,
     "orderIndex": 53,
-    "nameEn": "Dua for Solving Problems",
-    "nameUrdu": "مشکلات کے حل کی دعا"
+    "nameEn": "Supplication for solving difficulties",
+    "nameUrdu": "مشکلات کے حل کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 150,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 54,
     "orderIndex": 54,
-    "nameEn": "Duas in Times of Restlessness & Anxiety",
-    "nameUrdu": "بے قراری اور اضطراب کے وقت کی دعائیں"
+    "nameEn": "Supplications for restlessness and anxiety",
+    "nameUrdu": "بے قراری اور اضطراب کے وقت کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 150,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 55,
     "orderIndex": 55,
-    "nameEn": "Duas for Relief from Debt",
-    "nameUrdu": "قرض سے نجات کی دعائیں"
+    "nameEn": "Supplications for relief from debt",
+    "nameUrdu": "قرض سے نجات کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 152,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 56,
     "orderIndex": 56,
-    "nameEn": "Dua When Repaying Debt",
-    "nameUrdu": "قرض واپس کرتے وقت کی دعا"
+    "nameEn": "Dua while repaying debt",
+    "nameUrdu": "قرض واپس کرتے وقت کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 155,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 57,
     "orderIndex": 57,
-    "nameEn": "Dua When Calamity Strikes",
-    "nameUrdu": "مصیبت کے وقت نعم البدل مانگنے کی دعا"
+    "nameEn": "Dua for a better replacement during calamity",
+    "nameUrdu": "مصیبت کے وقت نعم البدل مانگنے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 155,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 58,
     "orderIndex": 58,
-    "nameEn": "What to Say in Times of Distress",
-    "nameUrdu": "گھبراہٹ کے وقت کیا کہا جائے"
+    "nameEn": "What to say when frightened",
+    "nameUrdu": "گھبراہٹ کے وقت کیا کہا جائے؟",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 156,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 59,
     "orderIndex": 59,
-    "nameEn": "Dua for Anger",
-    "nameUrdu": "غصہ آجانے کے وقت کی دعا"
+    "nameEn": "Dua for when feeling angry",
+    "nameUrdu": "غصہ آجانے کے وقت کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 156,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 60,
     "orderIndex": 60,
-    "nameEn": "Dua to Be Safe from Shayateen's Tricks",
-    "nameUrdu": "سرکش شیطانوں کے مکر وفریب سے بچنے کی دعا"
+    "nameEn": "Dua for protection against the deception of rebellious satans",
+    "nameUrdu": "سرکش شیطانوں کے مکر وفریب سے بچنے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 156,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 61,
     "orderIndex": 61,
-    "nameEn": "Dua When Feeling Helpless",
-    "nameUrdu": "تدبیر الٹ جانے پر بے بسی کی دعا"
+    "nameEn": "Dua for helplessness when plans fail",
+    "nameUrdu": "تدبیر الٹ جانے پر بے بسی کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 157,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 62,
     "orderIndex": 62,
-    "nameEn": "How to Express Distress",
-    "nameUrdu": "پریشان آدمی اپنا حال کیسے بتائے"
+    "nameEn": "How a worried person should explain their situation",
+    "nameUrdu": "پریشان آدمی اپنا حال کیسے بتائے؟",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 158,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 63,
     "orderIndex": 63,
-    "nameEn": "What to Do When Feeling Physical Pain",
-    "nameUrdu": "جسم میں تکلیف محسوس ہو تو کیا کہے"
+    "nameEn": "What to say when feeling bodily pain",
+    "nameUrdu": "جسم میں تکلیف محسوس ہو تو کیا کہے؟",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "SICKNESS",
+    "pageNumber": 159,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 64,
     "orderIndex": 64,
-    "nameEn": "Dua When Seeing Someone in Calamity",
-    "nameUrdu": "مصیبت زدہ کو دیکھنے کے وقت کی دعا"
+    "nameEn": "Dua when seeing an afflicted person",
+    "nameUrdu": "مصیبت زدہ کو دیکھنے کے وقت کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "SICKNESS",
+    "pageNumber": 159,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 65,
     "orderIndex": 65,
-    "nameEn": "Duas When Facing Enemy or Authority",
-    "nameUrdu": "دشمن اور صاحب سلطنت سے ملتے وقت کی دعائیں"
+    "nameEn": "Supplications when meeting an enemy or a ruler",
+    "nameUrdu": "دشمن اور صاحب سلطنت سے ملتے وقت کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 160,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 66,
     "orderIndex": 66,
-    "nameEn": "Duas When Fearing a King's Oppression",
-    "nameUrdu": "بادشاہ کے ظلم سے خوف کی دعائیں"
+    "nameEn": "Supplications for fear of an oppressive ruler",
+    "nameUrdu": "بادشاہ کے ظلم سے خوف کی دعا ئیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 161,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 67,
     "orderIndex": 67,
-    "nameEn": "Dua Against an Enemy",
-    "nameUrdu": "دشمن کے لیے بد دعا"
+    "nameEn": "Supplication against an enemy",
+    "nameUrdu": "دشمن کے لیے بد دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 163,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 68,
     "orderIndex": 68,
-    "nameEn": "Dua for Protection from People's Evil",
-    "nameUrdu": "لوگوں کے شر سے ڈرے تو یہ دعا مانگے"
+    "nameEn": "Supplication when fearing people's evil",
+    "nameUrdu": "لوگوں کے شر سے ڈرے تو یہ دعا مانگے",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 163,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 69,
     "orderIndex": 69,
-    "nameEn": "What to Do When Doubt in Faith Occurs",
-    "nameUrdu": "جسے ایمان میں شک ہو جائے وہ کیا کرے"
+    "nameEn": "What to do when doubt arises in faith",
+    "nameUrdu": "جسے ایمان میں شک ہو جائے وہ کیا کرے؟",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 164,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 70,
     "orderIndex": 70,
-    "nameEn": "Dua to Stay Safe from Shirk",
-    "nameUrdu": "شرک سے محفوظ رہنے کی دعا"
+    "nameEn": "Dua to remain safe from Shirk",
+    "nameUrdu": "شرک سے محفوظ رہنے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 164,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 71,
     "orderIndex": 71,
-    "nameEn": "What to Do After Committing a Sin",
-    "nameUrdu": "گناہ کر بیٹھے تو کیا کہے اور کیا کرے"
+    "nameEn": "What to say and do after committing a sin",
+    "nameUrdu": "گناہ کر بیٹھے تو کیا کہے اور کیا کرے؟",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "REPENTANCE",
+    "pageNumber": 165,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 72,
     "orderIndex": 72,
-    "nameEn": "When Does Shaytan Flee",
-    "nameUrdu": "شیطان کب بھاگتا ہے"
+    "nameEn": "When does Satan flee?",
+    "nameUrdu": "شیطان کب بھاگتا ہے؟",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 165,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 73,
     "orderIndex": 73,
-    "nameEn": "Practices to Stay Safe from Dajjal",
-    "nameUrdu": "دجال سے محفوظ رہنے کے وظائف"
+    "nameEn": "Adhkar for protection against Dajjal",
+    "nameUrdu": "دجال سے محفوظ رہنے کے وظائف",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 167,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 74,
     "orderIndex": 74,
-    "nameEn": "Dua to Declare Innocence from Every Pain",
-    "nameUrdu": "ہر تکلیف سے اظہار براءت کے لیے دعا"
+    "nameEn": "Supplication to express disavowal of bad omens",
+    "nameUrdu": "بد شگونی سے اظہار براءت کے لیے دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 168,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 75,
     "orderIndex": 75,
-    "nameEn": "What Did the Prophet (PBUH) Advise the Worried",
-    "nameUrdu": "نبی پاک ﷺ نے کاندیشہ ہو تو کیا کہے"
+    "nameEn": "What to say when fearing your own 'evil eye' might affect something",
+    "nameUrdu": "اپنی نظر لگ جانے کا اندیشہ ہو تو کیا کہے؟",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "PROTECTION",
+    "pageNumber": 168,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 76,
     "orderIndex": 76,
-    "nameEn": "Dua for Someone Insulted or Harmed",
-    "nameUrdu": "ایسے شخص کے لیے دعا جسے گالی یا تکلیف دی ہو"
+    "nameEn": "Dua for a person who has been insulted or hurt",
+    "nameUrdu": "ایسے شخص کے لیے دعا جسے گالی یا تکلیف دی ہو",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 169,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 77,
     "orderIndex": 77,
-    "nameEn": "Duas of Hajj, Umrah & Travel",
-    "nameUrdu": "حج اور عمرہ اور سفر کی دعائیں"
+    "nameEn": "Supplications for Hajj, Umrah, and Travel",
+    "nameUrdu": "حج و عمرہ اور سفر کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 170,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 78,
     "orderIndex": 78,
-    "nameEn": "Dua When Boarding a Vehicle",
-    "nameUrdu": "سواری پر بیٹھنے کی دعا"
+    "nameEn": "Dua for mounting a ride",
+    "nameUrdu": "سواری پر بیٹھنے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 170,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 79,
     "orderIndex": 79,
-    "nameEn": "Dua at the Start of a Journey",
-    "nameUrdu": "آغاز سفر کی دعا"
+    "nameEn": "Dua for starting a journey",
+    "nameUrdu": "آغاز سفر کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 170,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 80,
     "orderIndex": 80,
-    "nameEn": "Dua When Entering a Town or Village",
-    "nameUrdu": "کسی شہر یا بستی میں داخل ہونے کی دعا"
+    "nameEn": "Dua for entering a city or town",
+    "nameUrdu": "کسی شہر یا بستی میں داخل ہونے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 171,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 81,
     "orderIndex": 81,
-    "nameEn": "Dua When the Mount Stumbles",
-    "nameUrdu": "سواری پھسلنے کے وقت کی دعا"
+    "nameEn": "Dua when a ride slips",
+    "nameUrdu": "سواری پھسلنے کے وقت کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 173,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 82,
     "orderIndex": 82,
-    "nameEn": "Tasbih & Takbir During Journey",
-    "nameUrdu": "دوران سفر تسبیح وتکبیر"
+    "nameEn": "Tasbih and Takbir during travel",
+    "nameUrdu": "دوران سفر تسبیح و تکبیر",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 174,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 83,
     "orderIndex": 83,
-    "nameEn": "Dua at Dawn During Travel",
-    "nameUrdu": "دوران سفر صبح کے وقت کی دعا"
+    "nameEn": "Morning supplication during travel",
+    "nameUrdu": "دورانِ سفر صبح کے وقت کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 174,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 84,
     "orderIndex": 84,
-    "nameEn": "Dua to Stay Safe from People's Evil While Traveling",
-    "nameUrdu": "لوگوں کے شر کے بغیر کسی جگہ ٹھہرنے کی دعا"
+    "nameEn": "Dua when stopping at a place during travel or otherwise",
+    "nameUrdu": "دوران سفر یا سفر کے بغیر کسی جگہ ٹھہرنے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 174,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 85,
     "orderIndex": 85,
-    "nameEn": "Near the Black Stone — Say Allahu Akbar",
-    "nameUrdu": "حجر اسود کے قریب جا کر اللہ اکبر کہنا"
+    "nameEn": "Dua when returning from travel",
+    "nameUrdu": "سفر سے واپسی کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 175,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 86,
     "orderIndex": 86,
-    "nameEn": "Dua Between Rukn Yamani and Hajr Aswad",
-    "nameUrdu": "رکن یمانی اور حجر اسود کے درمیان کی دعا"
+    "nameEn": "Supplications of a resident for a traveler",
+    "nameUrdu": "مقیم کی مسافر کے لیے دعا ئیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 175,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 87,
     "orderIndex": 87,
-    "nameEn": "Dua at Safa & Marwah",
-    "nameUrdu": "صفا اور مروہ کے مقام پر پڑھی جانے والی دعا"
+    "nameEn": "Dua of a traveler for a resident",
+    "nameUrdu": "مسافر کی مقیم کے لیے دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 176,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 88,
     "orderIndex": 88,
-    "nameEn": "Dua of Yawm Arafah (9 Dhul Hijjah)",
-    "nameUrdu": "یوم عرفہ (9 ذوالحجہ) کی دعا"
+    "nameEn": "Dua of one who buys a ride",
+    "nameUrdu": "سواری خریدنے والے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 177,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 89,
     "orderIndex": 89,
-    "nameEn": "Dhikr at Muzdalifah",
-    "nameUrdu": "مشعر حرام کے پاس ذکر واذکار"
+    "nameEn": "How one donning the Ihram should say Labbaik",
+    "nameUrdu": "حج یا عمرے کا احرام باندھنے والا لبیک کیسے کہے؟",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 177,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 90,
     "orderIndex": 90,
-    "nameEn": "Takbir with Each Pebble at Rami",
-    "nameUrdu": "رمی جمرات کے وقت ہر کنگری کے ساتھ تکبیر"
+    "nameEn": "Saying Allahu Akbar when near the Hajar-e-Aswad",
+    "nameUrdu": "حجر اسود کے قریب جا کر اللہ اکبر کہنا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 179,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 91,
     "orderIndex": 91,
-    "nameEn": "Dua When Slaughtering a Common Animal",
-    "nameUrdu": "عام جانور یا اونٹ ذبح کرتے وقت کی دعا"
+    "nameEn": "Dua between Rukn-e-Yamani and Hajar-e-Aswad",
+    "nameUrdu": "رکن یمانی اور حجر اسود کے درمیان کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 179,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 92,
     "orderIndex": 92,
-    "nameEn": "Dua When Slaughtering a Sacrificial Animal",
-    "nameUrdu": "قربانی کا جانور ذبح کرنے کی دعا"
+    "nameEn": "Supplication to be recited at Safa and Marwa",
+    "nameUrdu": "صفا اور مروہ کے مقام پر پڑھی جانے والی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 179,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 93,
     "orderIndex": 93,
-    "nameEn": "Dua Before Eating",
-    "nameUrdu": "کھانا کھانے سے پہلے کی دعا"
+    "nameEn": "Supplication for the Day of Arafah (9th Dhul-Hijjah)",
+    "nameUrdu": "یوم عرفہ (9 ذوالحجہ ) کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 181,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 94,
     "orderIndex": 94,
-    "nameEn": "Duas After Eating",
-    "nameUrdu": "کھانے سے فراغت کے بعد کی دعائیں"
+    "nameEn": "Remembrance at the Mash'ar-e-Haram",
+    "nameUrdu": "مشعر حرام کے پاس ذکر و اذکار",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 182,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 95,
     "orderIndex": 95,
-    "nameEn": "Dua for the Host",
-    "nameUrdu": "مہمان کی میزبان کے لیے دعا"
+    "nameEn": "Takbir with every pebble during Rami al-Jamarat",
+    "nameUrdu": "رمی جمرات کے وقت ہر کنکری کے ساتھ تکبیر",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "TRAVEL",
+    "pageNumber": 182,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 96,
     "orderIndex": 96,
-    "nameEn": "Dua for the One Who Fed You",
-    "nameUrdu": "پلانے والے کے لیے دعا"
+    "nameEn": "Dua while slaughtering a general animal or camel",
+    "nameUrdu": "عام جانور یا اونٹ ذبح کرتے وقت کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 183,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 97,
     "orderIndex": 97,
-    "nameEn": "Dua When Seeing New Fruit",
-    "nameUrdu": "نیا پھل دیکھتے وقت کی دعا"
+    "nameEn": "Dua for slaughtering a sacrificial animal",
+    "nameUrdu": "قربانی کا جانور ذبح کرنے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 183,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 98,
     "orderIndex": 98,
-    "nameEn": "Dua When Wearing New Clothes",
-    "nameUrdu": "نیا لباس پہننے کی دعا"
+    "nameEn": "Supplications related to food, drink, and clothing",
+    "nameUrdu": "کھانے پینے اور لباس سے متعلق دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "FOOD_DRINK",
+    "pageNumber": 185,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 99,
     "orderIndex": 99,
-    "nameEn": "Dua for the One Who Wears New Clothes",
-    "nameUrdu": "نیا لباس پہننے والے کے لیے دعائیں"
+    "nameEn": "Dua before eating",
+    "nameUrdu": "کھانا کھانے سے پہلے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "FOOD_DRINK",
+    "pageNumber": 185,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 100,
     "orderIndex": 100,
-    "nameEn": "Dua for Wearing Common Clothes",
-    "nameUrdu": "عام لباس پہننے کی دعا"
+    "nameEn": "Supplications after finishing a meal",
+    "nameUrdu": "کھانے سے فراغت کے بعد کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "FOOD_DRINK",
+    "pageNumber": 186,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 101,
     "orderIndex": 101,
-    "nameEn": "Dua When Removing Clothes",
-    "nameUrdu": "لباس اتارتے وقت کی دعا"
+    "nameEn": "Dua of a guest for the host",
+    "nameUrdu": "مہمان کی میزبان کے لیے دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "FOOD_DRINK",
+    "pageNumber": 187,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 102,
     "orderIndex": 102,
-    "nameEn": "Daily Duas",
-    "nameUrdu": "روزمرہ دعائیں"
+    "nameEn": "Dua for the one who provides drink",
+    "nameUrdu": "پلانے والے کے لیے دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "FOOD_DRINK",
+    "pageNumber": 188,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 103,
     "orderIndex": 103,
-    "nameEn": "Duas When Leaving Home",
-    "nameUrdu": "گھر سے نکلتے وقت کی دعائیں"
+    "nameEn": "Dua when seeing new seasonal fruit",
+    "nameUrdu": "نیا نیا پھل دیکھتے وقت کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "FOOD_DRINK",
+    "pageNumber": 188,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 104,
     "orderIndex": 104,
-    "nameEn": "Dua When Entering Home",
-    "nameUrdu": "گھر میں داخل ہوتے وقت کی دعا"
+    "nameEn": "Dua for wearing new clothes",
+    "nameUrdu": "نیا لباس پہننے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "HOME_FAMILY",
+    "pageNumber": 189,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 105,
     "orderIndex": 105,
-    "nameEn": "Dua When Entering the Market",
-    "nameUrdu": "بازار میں داخل ہونے کی دعا"
+    "nameEn": "Supplications for someone wearing new clothes",
+    "nameUrdu": "نیا لباس پہننے والے کے لیے دعا ئیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "HOME_FAMILY",
+    "pageNumber": 189,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 106,
     "orderIndex": 106,
-    "nameEn": "Dua When Seeing the New Moon",
-    "nameUrdu": "چاند دیکھنے کی دعا"
+    "nameEn": "Dua for wearing regular clothes",
+    "nameUrdu": "عام لباس پہننے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "HOME_FAMILY",
+    "pageNumber": 190,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 107,
     "orderIndex": 107,
-    "nameEn": "Duas When Waiting for Iftar",
-    "nameUrdu": "روزہ انتظار کرتے وقت کی دعائیں"
+    "nameEn": "Dua while undressing",
+    "nameUrdu": "لباس اتارتے وقت کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "HOME_FAMILY",
+    "pageNumber": 190,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 108,
     "orderIndex": 108,
-    "nameEn": "Dua for the One Who Gave You Iftar",
-    "nameUrdu": "افطاری کرانے والے کے لیے دعا"
+    "nameEn": "Daily Supplications",
+    "nameUrdu": "روز مره كي دعانين",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 191,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 109,
     "orderIndex": 109,
-    "nameEn": "Dua When Invited to an Optional Fast & Cannot Accept",
-    "nameUrdu": "نفلی روزے میں دعوت قبول نہ کرنے والے کی دعا"
+    "nameEn": "Supplications for leaving the house",
+    "nameUrdu": "گھر سے نکلتے وقت کی دعا ئیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "HOME_FAMILY",
+    "pageNumber": 191,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 110,
     "orderIndex": 110,
-    "nameEn": "What to Say When Someone Insults You While Fasting",
-    "nameUrdu": "روزے دار کو کوئی شخص گالی دے تو وہ کیا کہے"
+    "nameEn": "Dua for entering the house",
+    "nameUrdu": "گھر میں داخل ہوتے وقت کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "HOME_FAMILY",
+    "pageNumber": 192,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 111,
     "orderIndex": 111,
-    "nameEn": "Duas for Sneezing",
-    "nameUrdu": "چھینک کی دعائیں"
+    "nameEn": "Dua for entering the market",
+    "nameUrdu": "بازار میں داخل ہونے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 192,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 112,
     "orderIndex": 112,
-    "nameEn": "Dua for the Groom & Bride",
-    "nameUrdu": "دولہا، دلہن کو مبارک باد دینے کی دعا"
+    "nameEn": "Dua for sighting the moon",
+    "nameUrdu": "چاند دیکھنے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 193,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 113,
     "orderIndex": 113,
-    "nameEn": "Dua for the One Getting Married",
-    "nameUrdu": "شادی کرنے والے کی اپنی بیوی کو دعا"
+    "nameEn": "Supplications for breaking the fast (Iftar)",
+    "nameUrdu": "روزہ افطار کرتے وقت کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "FOOD_DRINK",
+    "pageNumber": 194,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 114,
     "orderIndex": 114,
-    "nameEn": "Dua Before Going to One's Wife",
-    "nameUrdu": "بیوی کے پاس آنے سے پہلے کی دعا"
+    "nameEn": "Dua for someone who provides Iftar",
+    "nameUrdu": "افطاری کرانے والے کے لیے دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "FOOD_DRINK",
+    "pageNumber": 194,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 115,
     "orderIndex": 115,
-    "nameEn": "Congratulations on a Newborn",
-    "nameUrdu": "نومولود کی مبارکباد"
+    "nameEn": "Dua for someone observing a voluntary fast who does not accept an invitation",
+    "nameUrdu": "نفلی روزے میں دعوت قبول نہ کرنے والے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "FOOD_DRINK",
+    "pageNumber": 195,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 116,
     "orderIndex": 116,
-    "nameEn": "What Should the Congratulated Person Reply",
-    "nameUrdu": "مبارکباد سننے والا کیا جواب دے"
+    "nameEn": "What a fasting person should say if someone insults them",
+    "nameUrdu": "روزے دار کو کوئی شخص گالی دے تو وہ کیا کہے؟",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 195,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 117,
     "orderIndex": 117,
-    "nameEn": "What to Say When Hearing Good News",
-    "nameUrdu": "خوشخبری کی بات سننے والا کیا کہے"
+    "nameEn": "Supplications for sneezing",
+    "nameUrdu": "چھینک کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 196,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 118,
     "orderIndex": 118,
-    "nameEn": "Dua in Times of Happiness",
-    "nameUrdu": "خوشی کے وقت کی دعا"
+    "nameEn": "Dua for congratulating a bride and groom",
+    "nameUrdu": "دولھا ، دلھن کو مبارک باد دینے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "HOME_FAMILY",
+    "pageNumber": 197,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 119,
     "orderIndex": 119,
-    "nameEn": "Sajdah of Shukr on Receiving Good News",
-    "nameUrdu": "خوشخبری ملنے پر سجدۂ شکر"
+    "nameEn": "Dua of a groom for his wife",
+    "nameUrdu": "شادی کرنے والے کی اپنی بیوی کو دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "HOME_FAMILY",
+    "pageNumber": 197,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 120,
     "orderIndex": 120,
-    "nameEn": "Dua to Put Children in Allah's Protection",
-    "nameUrdu": "بچوں کو اللہ کی پناہ میں دینے کی دعا"
+    "nameEn": "Dua before approaching one's wife",
+    "nameUrdu": "بیوی کے پاس آنے سے پہلے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "HOME_FAMILY",
+    "pageNumber": 197,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 121,
     "orderIndex": 121,
-    "nameEn": "Command to Supervise Children at Evening",
-    "nameUrdu": "شام کے وقت بچوں کی نگرانی کا حکم"
+    "nameEn": "Congratulating on a newborn",
+    "nameUrdu": "نو مولود کی مبارکباد",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "HOME_FAMILY",
+    "pageNumber": 198,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 122,
     "orderIndex": 122,
-    "nameEn": "What Should a Muslim Say When Praised",
-    "nameUrdu": "جب مسلمان اپنی تعریف سنے تو کیا کہے"
+    "nameEn": "How should someone who hears a congratulation respond?",
+    "nameUrdu": "مبارکباد سننے والا کیا جواب دے؟",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "HOME_FAMILY",
+    "pageNumber": 199,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 123,
     "orderIndex": 123,
-    "nameEn": "What to Say When Praising Another Muslim",
-    "nameUrdu": "مسلمان دوسرے مسلمان کی تعریف میں کیا کہے"
+    "nameEn": "What to say when hearing good news",
+    "nameUrdu": "خوشخبری کی بات سننے والا کیا کہے",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 199,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 124,
     "orderIndex": 124,
-    "nameEn": "What to Say to One Who Makes Dua for You",
-    "nameUrdu": "مغفرت کی دعا دینے والے کو کیا کہا جائے"
+    "nameEn": "Supplication for times of joy",
+    "nameUrdu": "خوشی کے وقت کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 200,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 125,
     "orderIndex": 125,
-    "nameEn": "Dua to Express Love",
-    "nameUrdu": "محبت کا اظہار کرنے والے کے لیے دعا"
+    "nameEn": "Prostration of gratitude upon receiving good news",
+    "nameUrdu": "خوشخبری ملنے پر سجدہ شکر",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 200,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 126,
     "orderIndex": 126,
-    "nameEn": "Dua for Good Behaviour",
-    "nameUrdu": "حسن سلوک کرنے والے کے لیے دعا"
+    "nameEn": "Dua for placing children under Allah's protection",
+    "nameUrdu": "بچوں کو اللہ کی پناہ میں دینے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "HOME_FAMILY",
+    "pageNumber": 200,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 127,
     "orderIndex": 127,
-    "nameEn": "What to Say When Someone Gives Barakah",
-    "nameUrdu": "برکت کی دعا دینے والے کو کیا کہا جائے"
+    "nameEn": "Order for the supervision of children during the evening",
+    "nameUrdu": "شام کے وقت بچوں کی نگرانی کا حکم",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "HOME_FAMILY",
+    "pageNumber": 201,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 128,
     "orderIndex": 128,
-    "nameEn": "Dua for the One Who Spends on You",
-    "nameUrdu": "مال ودولت خرچ کرنے والے کے لیے دعا"
+    "nameEn": "What should a Muslim say when they are praised?",
+    "nameUrdu": "جب مسلمان اپنی تعریف سے تو کیا کہے",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 201,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 129,
     "orderIndex": 129,
-    "nameEn": "Dua During a Gathering",
-    "nameUrdu": "دوران مجلس کی دعا"
+    "nameEn": "What should a Muslim say in praise of another Muslim?",
+    "nameUrdu": "مسلمان دوسرے مسلمان کی تعریف میں کیا کہے؟",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 202,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 130,
     "orderIndex": 130,
-    "nameEn": "Kaffarah al-Majlis",
-    "nameUrdu": "کفارۂ مجلس"
+    "nameEn": "What should be said to someone who offers a prayer for forgiveness?",
+    "nameUrdu": "مغفرت کی دعا دینے والے کو کیا کہا جائے؟",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 202,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 131,
     "orderIndex": 131,
-    "nameEn": "Encouragement to Say Salaam Often",
-    "nameUrdu": "کثرت سے سلام کہنے کی تلقین"
+    "nameEn": "Dua for someone who expresses their love",
+    "nameUrdu": "محبت کا اظہار کرنے والے کے لیے دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 202,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 132,
     "orderIndex": 132,
-    "nameEn": "Reply to a Kafir's Salaam",
-    "nameUrdu": "کافر کے سلام کا جواب"
+    "nameEn": "Dua for someone who does a favor",
+    "nameUrdu": "حسن سلوک کرنے والے کے لیے دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 203,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 133,
     "orderIndex": 133,
-    "nameEn": "Duas for Protection from Drought & Rain",
-    "nameUrdu": "قحط سالی سے بچاو اور بارش کی دعائیں"
+    "nameEn": "What should be said to someone who offers a prayer for blessings?",
+    "nameUrdu": "برکت کی دعا دینے والے کو کیا کہا جائے؟",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 203,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 134,
     "orderIndex": 134,
-    "nameEn": "Duas for Wind",
-    "nameUrdu": "آندھی کی دعائیں"
+    "nameEn": "Dua for someone who spends their wealth",
+    "nameUrdu": "مال و دولت خرچ کرنے والے کے لیے دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 204,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 135,
     "orderIndex": 135,
-    "nameEn": "Dua for Thunder",
-    "nameUrdu": "بادل گرجنے کی دعا"
+    "nameEn": "Dua during a gathering",
+    "nameUrdu": "دوران مجلس کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 204,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 136,
     "orderIndex": 136,
-    "nameEn": "What to Do When Rain Falls",
-    "nameUrdu": "بارش دیکھ کر کیا کہا جائے"
+    "nameEn": "Expiation of a gathering",
+    "nameUrdu": "كفاره مجلس",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 204,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 137,
     "orderIndex": 137,
-    "nameEn": "What to Do When Rain is Excessive",
-    "nameUrdu": "بارش ضرورت سے زائد ہو جائے تو کیا کہا جائے"
+    "nameEn": "Encouragement to give greetings (Salam) frequently",
+    "nameUrdu": "کثرت سے سلام کہنے کی تلقین",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 205,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 138,
     "orderIndex": 138,
-    "nameEn": "Dua When Hearing a Rooster",
-    "nameUrdu": "مرغ بولنے کے وقت کی دعا"
+    "nameEn": "Responding to a non-Muslim's greeting",
+    "nameUrdu": "کافر کے سلام کا جواب",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 206,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 139,
     "orderIndex": 139,
-    "nameEn": "Dua When Hearing a Donkey Bray",
-    "nameUrdu": "گدھا رینگنے کے وقت کی دعا"
+    "nameEn": "Supplications for rain and protection against drought",
+    "nameUrdu": "قحط سالی سے بچاؤ اور بارش کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 206,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 140,
     "orderIndex": 140,
-    "nameEn": "Dua When Dogs Bark at Night",
-    "nameUrdu": "رات کو کتوں کے بھونکنے کے وقت کی دعا"
+    "nameEn": "Supplications for windstorms",
+    "nameUrdu": "آندھی کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 207,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 141,
     "orderIndex": 141,
-    "nameEn": "Virtue of Visiting the Sick",
-    "nameUrdu": "بیمار پرسی کی فضیلت"
+    "nameEn": "Dua upon hearing thunder",
+    "nameUrdu": "بادل گرجنے کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 209,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 142,
     "orderIndex": 142,
-    "nameEn": "Duas When Visiting the Sick",
-    "nameUrdu": "بیمار پرسی کے وقت کے لیے دعائیں"
+    "nameEn": "What to say when seeing rain",
+    "nameUrdu": "بارش دیکھ کر کیا کہا جائے؟",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 209,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 143,
     "orderIndex": 143,
-    "nameEn": "Duas for a Terminally Ill Patient",
-    "nameUrdu": "زندگی سے ناامید مریض کی دعائیں"
+    "nameEn": "Dua after rain",
+    "nameUrdu": "بارش کے بعد کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 209,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 144,
     "orderIndex": 144,
-    "nameEn": "Command to Give Talqeen Near Death",
-    "nameUrdu": "قریب الموت کو تلقین کرنے کا حکم"
+    "nameEn": "What to say if rain becomes excessive",
+    "nameUrdu": "بارش ضرورت سے زائد ہو جائے تو کیا کہا جائے؟",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 210,
+    "hasContent": true,
+    "duaIds": []
   },
   {
     "id": 145,
     "orderIndex": 145,
-    "nameEn": "Dua When Closing the Eyes of the Deceased",
-    "nameUrdu": "میت کی آنکھیں بند کرتے وقت کی دعا"
+    "nameEn": "Dua when a rooster crows",
+    "nameUrdu": "مرغ بولنے کے وقت کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 210,
+    "hasContent": true,
+    "duaIds": []
+  },
+  {
+    "id": 146,
+    "orderIndex": 146,
+    "nameEn": "Dua when a donkey brays",
+    "nameUrdu": "گدھار سینکنے کے وقت کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 211,
+    "hasContent": true,
+    "duaIds": []
+  },
+  {
+    "id": 147,
+    "orderIndex": 147,
+    "nameEn": "Dua when dogs bark at night",
+    "nameUrdu": "رات کو کتوں کے بھونکنے کے وقت کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "GENERAL",
+    "pageNumber": 211,
+    "hasContent": true,
+    "duaIds": []
+  },
+  {
+    "id": 148,
+    "orderIndex": 148,
+    "nameEn": "Excellence of visiting the sick",
+    "nameUrdu": "بیمار پرسی کی فضیلت",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "SICKNESS",
+    "pageNumber": 211,
+    "hasContent": true,
+    "duaIds": []
+  },
+  {
+    "id": 149,
+    "orderIndex": 149,
+    "nameEn": "Supplications for the patient during a visit",
+    "nameUrdu": "بیمار پرسی کے وقت مریض کے لیے دعا ئیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "SICKNESS",
+    "pageNumber": 212,
+    "hasContent": true,
+    "duaIds": []
+  },
+  {
+    "id": 150,
+    "orderIndex": 150,
+    "nameEn": "Supplications for a patient who has lost hope of life",
+    "nameUrdu": "زندگی سے نا امید مریض کی دعائیں",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "SICKNESS",
+    "pageNumber": 213,
+    "hasContent": true,
+    "duaIds": []
+  },
+  {
+    "id": 151,
+    "orderIndex": 151,
+    "nameEn": "Order to prompt (Talqin) someone near death",
+    "nameUrdu": "قریب الموت کو تلقین کرنے کا حکم",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "SICKNESS",
+    "pageNumber": 214,
+    "hasContent": true,
+    "duaIds": []
+  },
+  {
+    "id": 152,
+    "orderIndex": 152,
+    "nameEn": "Dua while closing a deceased person's eyes",
+    "nameUrdu": "میت کی آنکھیں بند کرتے وقت کی دعا",
+    "bookSlug": "hisnul_muslim",
+    "categoryGroup": "FUNERAL",
+    "pageNumber": 215,
+    "hasContent": true,
+    "duaIds": []
   }
 ]
