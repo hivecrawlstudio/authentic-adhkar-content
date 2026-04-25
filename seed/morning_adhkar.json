@@ -2,23 +2,6 @@
   {
     "id": 101,
     "orderIndex": 1,
-    "arabicText": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَذَا الْيَوْمِ وَخَيْرَ مَا بَعْدَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَذَا الْيَوْمِ وَشَرِّ مَا بَعْدَهُ، رَبِّ أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، رَبِّ أَعُوذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ",
-    "transliteration": "Asbahna wa asbahal mulku lillahi walhamdu lillahi, la ilaha illallahu wahdahu la sharika lah, lahul mulku wa lahul hamdu wa huwa 'ala kulli shay'in qadir. Rabbi as'aluka khayra ma fi hadhal yawmi wa khayra ma ba'dah, wa a'udhu bika min sharri ma fi hadhal yawmi wa sharri ma ba'dah. Rabbi a'udhu bika minal kasali wa su'il kibar. Rabbi a'udhu bika min 'adhabin fin-nari wa 'adhabin fil-qabr.",
-    "englishTranslation": "We have reached the morning and at this very time all sovereignty belongs to Allah. All praise is for Allah. None has the right to be worshipped except Allah, alone, without partner. To Him belongs all sovereignty and praise, and He is over all things omnipotent. My Lord, I ask You for the good of this day and the good of what follows it, and I seek refuge in You from the evil of this day and the evil of what follows it. My Lord, I seek refuge in You from laziness and the misery of old age. My Lord, I seek refuge in You from the punishment of the Fire and the punishment of the grave.",
-    "urduTranslation": "ہم نے صبح کی اور اللہ کے سارے ملک نے صبح کی، اور سب تعریف اللہ ہی کے لیے ہے۔ اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کی بادشاہت ہے اور اسی کے لیے تعریف ہے اور وہ ہر چیز پر قادر ہے۔ اے میرے رب! میں تجھ سے اس دن کی بھلائی اور اس کے بعد کی بھلائی مانگتا ہوں اور میں اس دن کے شر سے اور اس کے بعد آنے والے دن کے شر سے تیری پناہ میں آتا ہوں۔ اے میرے رب! میں کاہلی اور بڑھاپے کی خرابی سے تیری پناہ میں آتا ہوں۔ اے میرے رب! میں آگ کے عذاب سے اور قبر کے عذاب سے تیری پناہ میں آتا ہوں۔",
-    "repetitions": 1,
-    "type": "MORNING",
-    "category": "MORNING_ADHKAR",
-    "reference": "Sahih Muslim 2723",
-    "sourceBook": "Hisnul Muslim",
-    "fadhail": "Whoever recites this dua in the morning has thanked Allah for that day, and it covers comprehensive praise, tawheed, and seeking protection from major harms including Hellfire and the punishment of the grave.",
-    "situationTags": ["morning", "protection", "daily", "gratitude", "tawheed"],
-    "isFavourite": false,
-    "isCompleted": false
-  },
-  {
-    "id": 102,
-    "orderIndex": 2,
     "arabicText": "حَسْبِيَ اللَّهُ لَا إِلَهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
     "transliteration": "Hasbiyallahu la ilaha illa huwa, 'alayhi tawakkaltu wa huwa rabbul 'arshil 'azim.",
     "englishTranslation": "Allah is sufficient for me. There is none worthy of worship but Him. I have placed my trust in Him. He is the Lord of the Majestic Throne.",
@@ -30,6 +13,24 @@
     "sourceBook": "Hisnul Muslim",
     "fadhail": "Whoever recites this seven times in the morning, Allah will take care of his worries of this world and the hereafter.",
     "situationTags": ["morning", "tawakkul", "protection", "daily"],
+    "isFavourite": false,
+    "isCompleted": false
+  },
+   
+  {
+    "id": 102,
+    "orderIndex": 2,
+   "arabicText": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَذَا الْيَوْمِ وَخَيْرَ مَا بَعْدَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَذَا الْيَوْمِ وَشَرِّ مَا بَعْدَهُ، رَبِّ أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، رَبِّ أَعُوذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ",
+    "transliteration": "Asbahna wa asbahal mulku lillahi walhamdu lillahi, la ilaha illallahu wahdahu la sharika lah, lahul mulku wa lahul hamdu wa huwa 'ala kulli shay'in qadir. Rabbi as'aluka khayra ma fi hadhal yawmi wa khayra ma ba'dah, wa a'udhu bika min sharri ma fi hadhal yawmi wa sharri ma ba'dah. Rabbi a'udhu bika minal kasali wa su'il kibar. Rabbi a'udhu bika min 'adhabin fin-nari wa 'adhabin fil-qabr.",
+    "englishTranslation": "We have reached the morning and at this very time all sovereignty belongs to Allah. All praise is for Allah. None has the right to be worshipped except Allah, alone, without partner. To Him belongs all sovereignty and praise, and He is over all things omnipotent. My Lord, I ask You for the good of this day and the good of what follows it, and I seek refuge in You from the evil of this day and the evil of what follows it. My Lord, I seek refuge in You from laziness and the misery of old age. My Lord, I seek refuge in You from the punishment of the Fire and the punishment of the grave.",
+    "urduTranslation": "ہم نے صبح کی اور اللہ کے سارے ملک نے صبح کی، اور سب تعریف اللہ ہی کے لیے ہے۔ اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کی بادشاہت ہے اور اسی کے لیے تعریف ہے اور وہ ہر چیز پر قادر ہے۔ اے میرے رب! میں تجھ سے اس دن کی بھلائی اور اس کے بعد کی بھلائی مانگتا ہوں اور میں اس دن کے شر سے اور اس کے بعد آنے والے دن کے شر سے تیری پناہ میں آتا ہوں۔ اے میرے رب! میں کاہلی اور بڑھاپے کی خرابی سے تیری پناہ میں آتا ہوں۔ اے میرے رب! میں آگ کے عذاب سے اور قبر کے عذاب سے تیری پناہ میں آتا ہوں۔",
+    "repetitions": 1,
+    "type": "MORNING",
+    "category": "MORNING_ADHKAR",
+    "reference": "Sahih Muslim 2723",
+    "sourceBook": "Hisnul Muslim",
+    "fadhail": "Whoever recites this dua in the morning has thanked Allah for that day, and it covers comprehensive praise, tawheed, and seeking protection from major harms including Hellfire and the punishment of the grave.",
+    "situationTags": ["morning", "protection", "daily", "gratitude", "tawheed"],
     "isFavourite": false,
     "isCompleted": false
   },
