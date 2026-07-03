@@ -287,22 +287,5 @@
     "situationTags": ["waking-up", "morning", "gratitude", "health"],
     "isFavourite": false,
     "isCompleted": false
-  },
-  {
-    "id": 418,
-    "orderIndex": 18,
-    "arabicText": "اَلْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَكَفَانَا وَآوَانَا فَكَمْ مِمَّنْ لَا كَافِيَ لَهُ وَلَا مُؤْوِي",
-    "transliteration": "Alhamdu lillahil-ladhi at'amana wa saqana wa kafana wa awana, fakam mimman la kafiya lahu wa la mu'wi",
-    "englishTranslation": "Praise is to Allah Who fed us and gave us drink, and Who is sufficient for us and has sheltered us, for how many have none to suffice them or shelter them.",
-    "urduTranslation": "ہر تعریف اللہ کی جس نے ہمیں کھلایا اور پلایا اور ہمیں کافی ہو گیا اور ہمیں پناہ دیا، پس بہت سے ایسے لوگ ہیں جن کی کفالت کرنے والا ہے اور نہ ٹھکانا دینے والا۔",
-    "repetitions": 1,
-    "type": "SLEEP",
-    "category": "SLEEP",
-    "reference": "Sahih Muslim 2715",
-    "sourceBook": "Hisnul Muslim",
-    "fadhail": "یہ دعا بیدار ہونے پر پڑھنے سے اللہ کی بے شمار نعمتوں کا شکر ادا ہوتا ہے۔ کھانا، پانی، کفالت اور پناہ — یہ سب اللہ کی عطا ہیں جن سے بہت سے لوگ محروم ہیں۔",
-    "situationTags": ["waking-up", "morning", "gratitude", "blessings"],
-    "isFavourite": false,
-    "isCompleted": false
   }
 ]
